@@ -10,9 +10,19 @@ var addressPoints = [
     -96.7968559
   ],
   [
+    "Leuven, Belgium",
+    50.879202,
+    4.7011675
+  ],
+  [
     "Lyon, France",
     45.7578137,
     4.8320114
+  ],
+  [
+    "Vienna, Austria",
+    48.2083537,
+    16.3725042
   ],
   [
     "Bruxelles, Belgique",
