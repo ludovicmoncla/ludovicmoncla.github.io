@@ -5,19 +5,14 @@ var addressPoints = [
     2.3514616
   ],
   [
-    "Leuven, Belgium",
-    50.879202,
-    4.7011675
+    "Dallas, TX, USA",
+    32.7762719,
+    -96.7968559
   ],
   [
     "Lyon, France",
     45.7578137,
     4.8320114
-  ],
-  [
-    "Vienna, Austria",
-    48.2083537,
-    16.3725042
   ],
   [
     "Bruxelles, Belgique",

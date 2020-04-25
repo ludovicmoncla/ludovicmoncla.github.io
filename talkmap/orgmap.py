@@ -470,7 +470,6 @@ def output_html_cluster_map(org_location_dict, folder_name="cluster_map", hashed
     """
     """
 
-    print('test')
     import markercluster_output
     import os
     if folder_name.endswith("/") is not True:
