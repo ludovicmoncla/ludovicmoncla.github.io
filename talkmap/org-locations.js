@@ -18,5 +18,10 @@ var addressPoints = [
     "Reno, NV, USA",
     39.5261206,
     -119.8126581
+  ],
+  [
+    "Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
   ]
 ];
