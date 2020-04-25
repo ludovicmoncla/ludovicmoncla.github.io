@@ -19,7 +19,7 @@
 
 
 
-<title>Automated geoparsing of paris street names in 19th century novels. - Ludovic Moncla</title>
+<title>Spatial Entity Matching with GeoAlign (demo paper) - Ludovic Moncla</title>
 
 
 
@@ -29,15 +29,15 @@
 
 <meta property="og:locale" content="en-EN">
 <meta property="og:site_name" content="Ludovic Moncla">
-<meta property="og:title" content="Automated geoparsing of paris street names in 19th century novels.">
+<meta property="og:title" content="Spatial Entity Matching with GeoAlign (demo paper)">
 
 
-  <link rel="canonical" href="https://ludovicmoncla.github.io/talks/2017-11-07-talk-geohumanities">
-  <meta property="og:url" content="https://ludovicmoncla.github.io/talks/2017-11-07-talk-geohumanities">
+  <link rel="canonical" href="https://ludovicmoncla.github.io/talks/2017-11-07-talk-sigspatial">
+  <meta property="og:url" content="https://ludovicmoncla.github.io/talks/2017-11-07-talk-sigspatial">
 
 
 
-  <meta property="og:description" content="Authors: Ludovic Moncla, Mauro Gaio, Thierry Joliveau, and Yves-François Le LayAbstract: Our project involves building a platform able to retrieve, map and analyze the occurrences of place names in fictional novels published between 1800 and 1914 and whose action occurs wholly or partly in Paris. We describe a proof of concept using queries made via the TXM textual analysis platform for the extraction of street names. Then, we propose a fully automatic process using the named entity recognition (NER) components of the PERDIDO platform. This paper describes some encouraging initial results obtained by combining NLP approaches (NER methods) with textometric tools for the automated geoparsing of street names.Organized by Bruno Martins and Patricia Murrieta-Flores">
+  <meta property="og:description" content="Authors: Nelly Barret, Fabien Duchateau, Franck Favetta, and Ludovic MonclaAbstract: Points of interest (POI) are central in many applications such as tourism, itinerary search, crisis management. Cartographic providers usually represent these POI with a spatial entity. However, the description of these entities may significantly vary from one provider to another (e.g., missing properties, outdated information, conflicting values). Spatial entity matching (or record linkage) aims at detecting correspondences between entities referring to the same POI. Most existing approaches have a fixed function for combining similarity measures, thus limiting customization. Besides, evaluating the matching quality is a difficult task since a ground truth dataset cannot be built for all entities and providers. In this paper, we describe GeoAlign, an application that allows fine-grained tuning for spatial entity matching. A merging step is also provided using different strategies. Finally, we propose to estimate the quality of correspondences based on the differences between combination functions and to visualize this estimation in GeoAlign.">
 
 
 
@@ -52,7 +52,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2017-11-07T00:00:00+01:00">
+  <meta property="article:published_time" content="2019-11-07T00:00:00+01:00">
 
 
 
@@ -256,19 +256,19 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Automated geoparsing of paris street names in 19th century novels.">
-    <meta itemprop="description" content="Authors: Ludovic Moncla, Mauro Gaio, Thierry Joliveau, and Yves-François Le LayAbstract: Our project involves building a platform able to retrieve, map and analyze the occurrences of place names in fictional novels published between 1800 and 1914 and whose action occurs wholly or partly in Paris. We describe a proof of concept using queries made via the TXM textual analysis platform for the extraction of street names. Then, we propose a fully automatic process using the named entity recognition (NER) components of the PERDIDO platform. This paper describes some encouraging initial results obtained by combining NLP approaches (NER methods) with textometric tools for the automated geoparsing of street names.Organized by Bruno Martins and Patricia Murrieta-Flores">
-    <meta itemprop="datePublished" content="November 07, 2017">
+    <meta itemprop="headline" content="Spatial Entity Matching with GeoAlign (demo paper)">
+    <meta itemprop="description" content="Authors: Nelly Barret, Fabien Duchateau, Franck Favetta, and Ludovic MonclaAbstract: Points of interest (POI) are central in many applications such as tourism, itinerary search, crisis management. Cartographic providers usually represent these POI with a spatial entity. However, the description of these entities may significantly vary from one provider to another (e.g., missing properties, outdated information, conflicting values). Spatial entity matching (or record linkage) aims at detecting correspondences between entities referring to the same POI. Most existing approaches have a fixed function for combining similarity measures, thus limiting customization. Besides, evaluating the matching quality is a difficult task since a ground truth dataset cannot be built for all entities and providers. In this paper, we describe GeoAlign, an application that allows fine-grained tuning for spatial entity matching. A merging step is also provided using different strategies. Finally, we propose to estimate the quality of correspondences based on the differences between combination functions and to visualize this estimation in GeoAlign.">
+    <meta itemprop="datePublished" content="November 07, 2019">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Automated geoparsing of paris street names in 19th century novels.
+          <h1 class="page__title" itemprop="headline">Spatial Entity Matching with GeoAlign (demo paper)
 </h1>
           
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="2017-11-07T00:00:00+01:00">November 07, 2017</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="2019-11-07T00:00:00+01:00">November 07, 2019</time></p>
         
         
 
@@ -276,11 +276,11 @@
       
 
       <section class="page__content" itemprop="text">
-        <p>Authors: <a href="https://ludovicmoncla.github.io">Ludovic Moncla</a>, <a href="https://lma-umr5142.univ-pau.fr/fr/_plugins/mypage/mypage/content/mgaio.html">Mauro Gaio</a>, <a href="http://tjoliveau.com/tj/">Thierry Joliveau</a>, and <a href="http://perso.ens-lyon.fr/yves-francois.le-lay/">Yves-François Le Lay</a>
+        <p>Authors: <a href="http://nellybarret.fr/">Nelly Barret</a>, <a href="https://perso.liris.cnrs.fr/fabien.duchateau/">Fabien Duchateau</a>, <a href="https://liris.cnrs.fr/page-membre/franck-favetta">Franck Favetta</a>, and <a href="https://ludovicmoncla.github.io">Ludovic Moncla</a>
 <br />
-Abstract: Our project involves building a platform able to retrieve, map and analyze the occurrences of place names in fictional novels published between 1800 and 1914 and whose action occurs wholly or partly in Paris. We describe a proof of concept using queries made via the TXM textual analysis platform for the extraction of street names. Then, we propose a fully automatic process using the named entity recognition (NER) components of the PERDIDO platform. This paper describes some encouraging initial results obtained by combining NLP approaches (NER methods) with textometric tools for the automated geoparsing of street names.
-<br />
-Organized by <a href="https://bgmartins.github.io/">Bruno Martins</a> and <a href="https://www.lancaster.ac.uk/history/about/people/patricia-murrieta-flores">Patricia Murrieta-Flores</a></p>
+Abstract: Points of interest (POI) are central in many applications such as tourism, itinerary search, crisis management. Cartographic providers usually represent these POI with a spatial entity. However, the description of these entities may significantly vary from one provider to another (e.g., missing properties, outdated information, conflicting values). Spatial entity matching (or record linkage) aims at detecting correspondences between entities referring to the same POI. Most existing approaches have a fixed function for combining similarity measures, thus limiting customization. Besides, evaluating the matching quality is a difficult task since a ground truth dataset cannot be built for all entities and providers. In this paper, we describe GeoAlign, an application that allows fine-grained tuning for spatial entity matching. A merging step is also provided using different strategies. Finally, we propose to estimate the quality of correspondences based on the differences between combination functions and to visualize this estimation in GeoAlign.
+<br /></p>
+
 
         
       </section>
@@ -299,11 +299,11 @@ Organized by <a href="https://bgmartins.github.io/">Bruno Martins</a> and <a hre
 <section class="page__share">
   
 
-  <a href="https://twitter.com/intent/tweet?text=https://ludovicmoncla.github.io/talks/2017-11-07-talk-geohumanities" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=https://ludovicmoncla.github.io/talks/2017-11-07-talk-sigspatial" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://ludovicmoncla.github.io/talks/2017-11-07-talk-geohumanities" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://ludovicmoncla.github.io/talks/2017-11-07-talk-sigspatial" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://ludovicmoncla.github.io/talks/2017-11-07-talk-geohumanities" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://ludovicmoncla.github.io/talks/2017-11-07-talk-sigspatial" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -311,11 +311,11 @@ Organized by <a href="https://bgmartins.github.io/">Bruno Martins</a> and <a hre
 
   <nav class="pagination">
     
-      <a href="https://ludovicmoncla.github.io/talks/2017-11-07-talk-geohumanities" class="pagination--pager" title="Extended Named Entity Recognition Using Finite-State Transducers: An Application To Place Names.
+      <a href="https://ludovicmoncla.github.io/talks/2019-11-05-workshop-geohumanities" class="pagination--pager" title="3rd ACM SIGSPATIAL International Workshop on Geospatial Humanities
 ">Previous</a>
     
     
-      <a href="https://ludovicmoncla.github.io/talks/2018-11-06-talk-hns-sageo1" class="pagination--pager" title="Expérimentation de méthodes d’extraction d’informations géographiques pour les documents historiques.
+      <a href="https://ludovicmoncla.github.io/talks/2019-12-08-talk-gir" class="pagination--pager" title="GeoDISCO: Encyclopedic Geographical Discourse in France from the Enlightenment to Wikipedia
 ">Next</a>
     
   </nav>

@@ -20,6 +20,11 @@ var addressPoints = [
     4.8320114
   ],
   [
+    "Montpellier, France",
+    43.6112422,
+    3.8767337
+  ],
+  [
     "Vienna, Austria",
     48.2083537,
     16.3725042
@@ -35,14 +40,24 @@ var addressPoints = [
     4.351697
   ],
   [
+    "Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
+  ],
+  [
+    "Nice, France",
+    43.7009358,
+    7.2683912
+  ],
+  [
     "Reno, NV, USA",
     39.5261206,
     -119.8126581
   ],
   [
-    "Chicago, IL, USA",
-    41.8755616,
-    -87.6244212
+    "Dijon, France",
+    47.3215806,
+    5.0414701
   ],
   [
     "Redondo Beach, CA, USA",
