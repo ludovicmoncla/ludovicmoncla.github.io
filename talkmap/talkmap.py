@@ -12,10 +12,11 @@
 # Requires: glob, getorg, geopy
 
 import glob
-import getorg
+#import getorg
+import orgmap
 from geopy import Nominatim
 
-g = glob.glob("./_talks/*.md")
+g = glob.glob("../_talks/*.md")
 
 
 geocoder = Nominatim()
@@ -33,11 +34,13 @@ for file in g:
             lines_trim = lines[loc_start:]
             loc_end = lines_trim.find('"')
             location = lines_trim[:loc_end]
-                            
-           
-        location_dict[location] = geocoder.geocode(location)
-        print(location, "\n", location_dict[location])
 
+        print(location)
+        try:
+            location_dict[location] = geocoder.geocode(location)
+            print(location, "\n", location_dict[location])
+        except Exception as e:
+            pass
 
 # Test to see if ipyleaflets are supported.
 global leaflet_enabled
@@ -65,7 +68,7 @@ center = [30,5]
 zoom = 2
 #m = getorg.orgmap.create_map_obj()
 m = Map(default_tiles=TileLayer(opacity=1.0), center=center, zoom=zoom, layout=ipywidgets.Layout(height="300px"))
-getorg.orgmap.output_html_cluster_map(location_dict, folder_name="./talkmap", hashed_usernames=False)
+orgmap.output_html_cluster_map(location_dict, folder_name=".", hashed_usernames=False)
 
 
 
