@@ -5,6 +5,11 @@ var addressPoints = [
     2.3514616
   ],
   [
+    "Dallas, TX, USA",
+    32.7762719,
+    -96.7968559
+  ],
+  [
     "Leuven, Belgium",
     50.879202,
     4.7011675
@@ -48,6 +53,11 @@ var addressPoints = [
     "Reno, NV, USA",
     39.5261206,
     -119.8126581
+  ],
+  [
+    "Dijon, France",
+    47.3215806,
+    5.0414701
   ],
   [
     "Redondo Beach, CA, USA",
