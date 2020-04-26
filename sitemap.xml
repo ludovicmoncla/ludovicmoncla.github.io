@@ -79,6 +79,10 @@
 <lastmod>2019-11-07T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>https://ludovicmoncla.github.io/talks/2019-11-21-talk-datacamp</loc>
+<lastmod>2019-11-21T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>https://ludovicmoncla.github.io/talks/2019-12-08-talk-gir</loc>
 <lastmod>2019-12-08T00:00:00+01:00</lastmod>
 </url>
@@ -168,10 +172,6 @@
 <loc>https://ludovicmoncla.github.io/markdown_generator/</loc>
 </url>
 <url>
-<loc>https://ludovicmoncla.github.io/files/moncla2015automatic_slides.pdf</loc>
-<lastmod>2020-04-24T08:46:06+02:00</lastmod>
-</url>
-<url>
 <loc>https://ludovicmoncla.github.io/files/paper1.pdf</loc>
 <lastmod>2020-04-24T08:46:06+02:00</lastmod>
 </url>
@@ -196,7 +196,7 @@
 <lastmod>2017-03-19T22:22:15+01:00</lastmod>
 </url>
 <url>
-<loc>https://ludovicmoncla.github.io/papers/mcdonough2018exp%C3%A9rimentation.slides.pdf</loc>
+<loc>https://ludovicmoncla.github.io/papers/mcdonough2018experimentation.slides.pdf</loc>
 <lastmod>2018-11-05T10:41:34+01:00</lastmod>
 </url>
 <url>
@@ -220,6 +220,10 @@
 <lastmod>2017-11-07T06:57:43+01:00</lastmod>
 </url>
 <url>
+<loc>https://ludovicmoncla.github.io/papers/moncla2017pluridisciplinary.poster.pdf</loc>
+<lastmod>2017-09-11T10:54:56+02:00</lastmod>
+</url>
+<url>
 <loc>https://ludovicmoncla.github.io/papers/moncla2017services.slides.pdf</loc>
 <lastmod>2017-11-28T17:23:09+01:00</lastmod>
 </url>
@@ -232,14 +236,6 @@
 <lastmod>2018-11-02T19:28:32+01:00</lastmod>
 </url>
 <url>
-<loc>https://ludovicmoncla.github.io/papers/moncla2019mapping.pdf</loc>
-<lastmod>2020-04-24T08:46:06+02:00</lastmod>
-</url>
-<url>
-<loc>https://ludovicmoncla.github.io/papers/moncla2019mapping.slides.pdf</loc>
-<lastmod>2020-04-24T08:46:06+02:00</lastmod>
-</url>
-<url>
 <loc>https://ludovicmoncla.github.io/papers/van2013topographic.slides.pdf</loc>
 <lastmod>2013-06-17T09:20:31+02:00</lastmod>
 </url>
@@ -249,6 +245,6 @@
 </url>
 <url>
 <loc>https://ludovicmoncla.github.io/talkmap/map.html</loc>
-<lastmod>2020-04-26T09:36:49+02:00</lastmod>
+<lastmod>2020-04-26T10:11:43+02:00</lastmod>
 </url>
 </urlset>
