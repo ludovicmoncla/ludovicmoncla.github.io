@@ -55,6 +55,11 @@ var addressPoints = [
     -119.8126581
   ],
   [
+    "Stels, Switzerland",
+    46.9656901,
+    9.7151863
+  ],
+  [
     "Dijon, France",
     47.3215806,
     5.0414701
