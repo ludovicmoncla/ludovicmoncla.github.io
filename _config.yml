@@ -283,6 +283,12 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -293,3 +299,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+
+
