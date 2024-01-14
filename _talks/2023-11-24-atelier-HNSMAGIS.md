@@ -4,7 +4,7 @@ collection: talks
 type: "Workshop organization"
 permalink: /talks/2023-11-24-atelier-hns
 venue: "Journées MAGIS 2023"
-date: 2023-06-27
+date: 2023-11-24
 location: "Bordeaux, France"
 ---
 
