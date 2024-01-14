@@ -1,14 +1,12 @@
 ---
-title: "Atelier HNS MAGIS 2023"
+title: "Atelier TALN 2022"
 collection: talks
 type: "Workshop organization"
-permalink: /talks/2023-11-24-atelier-hnsmagis
+permalink: /talks/2022-06-27-atelier-taln
 venue: "Journées MAGIS 2022"
-date: 2023-11-24
-location: "Bordeaux, France"
+date: 2022-06-27
+location: "Avignon, France"
 ---
 
-Atelier <a href="https://hns-magis.github.io/2023-11-06-atelier-journees-magis2023/">Humanités Numériques Spatialisées</a> co-organisé avec Carmen Brando lors des <a href="https://journeesmagis.sciencesconf.org">journées MAGIS 2023</a> à Bordeaux.
-
-
+Atelier <a href="https://hns-magis.github.io/2022-06-27-atelier-taln2022/">TAL & Humanités Numériques</a> co-organisé avec Carmen Brando dans le cadre de la conférence <a href="https://taln2022.univ-avignon.fr">TALN 2022</a> à Avignon.
 
