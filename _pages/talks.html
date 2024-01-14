@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+---
+
+
+{% if site.talkmap_link == true %}
+<div align="center">
+<iframe src="/talkmap/map.html" height="550" width="850" style="border:none;"></iframe>
+</div>
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+
+
+
+
