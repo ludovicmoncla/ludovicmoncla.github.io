@@ -1,5 +1,5 @@
 ---
-title: "Atelier TAL & HN 2022"
+title: "PhD jury member"
 collection: talks
 type: "PhD jury member"
 permalink: /talks/2024-01-24-jury-phd-defense
