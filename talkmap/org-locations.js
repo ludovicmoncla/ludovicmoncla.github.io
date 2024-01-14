@@ -25,9 +25,14 @@ var addressPoints = [
     3.8767337
   ],
   [
-    "Avignon, France",
-    43.9492493,
-    4.8059012
+    "Bordeaux, France",
+    44.841225,
+    -0.5800364
+  ],
+  [
+    "Sophia-Antipolis, France",
+    43.6195225,
+    7.0518158
   ],
   [
     "Vienna, Austria",
@@ -46,8 +51,8 @@ var addressPoints = [
   ],
   [
     "Bruxelles, Belgique",
-    50.8550018,
-    4.3512333761166175
+    50.8465573,
+    4.351697
   ],
   [
     "Dublin, Ireland",
@@ -90,9 +95,9 @@ var addressPoints = [
     5.0414701
   ],
   [
-    "Bordeaux, France",
-    44.841225,
-    -0.5800364
+    "Avignon, France",
+    43.9492493,
+    4.8059012
   ],
   [
     "Redondo Beach, CA, USA",
