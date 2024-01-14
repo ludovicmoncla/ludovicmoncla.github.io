@@ -308,5 +308,16 @@ defaults:
       author_profile: true
       share: true
 
+# jekyll-scholar
+# https://gykovacsblog.wordpress.com/tag/jekyll-scholar/
+scholar:
+    style: ./_bibliography/apa-no-doi.csl
+    bibliography: refs.bib
+    source: ./_bibliography
+    bibliography_template: bibtemplate
+    replace_strings: true
+    query: "@*[public!=no]"
+    details_dir: ./_bibliography/details
+    repository: ./papers
 
 
