@@ -50,6 +50,11 @@ Sep. 2023 - Aou. 2024
 
 ## MSc Students
 
+2024
+:   
+* **Marc-Antoine Péguet**, Classification automatique des domaines de connaissance d'entrées lexicographiques. Master LLCER Parcours TAL, Université de Franche-Comté. Co-encadrement avec Julien Velcin (ERIC). LabEx ASLAN.
+* **Hedi Zeghidi**, IA hybride (neuro-symbolique) pour la recherche d’information géographique. Master International Machine Learning, Université Jean Monnet. LabEx ASLAN.
+
 2023
 :   
 * **Anas Ouardini**, Recherche et classification de sous-graphes dans un GNN pour la reconnaissance d’entités nommées imbriquées. Master DISS, Université Claude Bernard Lyon 1. FIL (Fédération Informatique de Lyon).
