@@ -110,6 +110,10 @@ author:
   location         : "Lyon, France"
   email            :
   twitter          : "MonclaLudovic"
+  googlescholar    : "https://scholar.google.fr/citations?user=KlJc_7kAAAAJ&hl=fr"
+  researchgate     : "https://www.researchgate.net/profile/Ludovic_Moncla"
+  linkedin         : "ludovic-moncla/"
+  orcid            : "http://orcid.org/0000-0002-1590-9546"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
