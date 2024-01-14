@@ -12,10 +12,24 @@ author_profile: true
 </div>
 {% endif %}
 
+<!--
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
-
+-->
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% assign postsByYear = site.talks | where_exp: "item", "item.hidden != true" | group_by_exp: 'talks', 'talk.date | date: "%Y"' %}
+{% for year in postsByYear %}
+  <section id="{{ year.name }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ year.name }}</h2>
+    <div class="entries-{{ entries_layout }}">
+      {% for post in year.items %}
+        {% include archive-single.html type=entries_layout %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
+{% endfor %}
 
 
 
