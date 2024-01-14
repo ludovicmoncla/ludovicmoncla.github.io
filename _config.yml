@@ -288,9 +288,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
