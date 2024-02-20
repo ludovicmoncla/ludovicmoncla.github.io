@@ -88,7 +88,7 @@ Professional activities
 2024
 :  
    * 2nd International Workshop on Geographic Information Extraction from Texts (GeoExT 2024) at the [ECIR 2024](https://www.ecir2024.org) conference
-   * IJGIS Special Issue on Extracting and analysing geographic information from natural language texts: https://think.taylorandfrancis.com/special_issues/extracting-analysing-geographic-information-natural-language-texts/
+   * IJGIS Special Issue on [https://think.taylorandfrancis.com/special_issues/extracting-analysing-geographic-information-natural-language-texts/](Extracting and analysing geographic information from natural language texts)
 
 
 2023
