@@ -88,6 +88,7 @@ Professional activities
 2024
 :  
    * 2nd International Workshop on Geographic Information Extraction from Texts (GeoExT 2024) at the [ECIR 2024](https://www.ecir2024.org) conference
+   * IJGIS Special Issue on Extracting and analysing geographic information from natural language texts: https://think.taylorandfrancis.com/special_issues/extracting-analysing-geographic-information-natural-language-texts/
 
 
 2023
@@ -127,6 +128,7 @@ Professional activities
 :  
   * 7th International Workshop on Narrative Extraction from Texts ([Text2Story’24](https://text2story24.inesctec.pt)) at [ECIR2024](https://ecir2024.org/)
   * 9th Workshop [GAST 2024](https://gt-gast.irisa.fr/actions/gast-2024/programme-gast-2024/) at the EGC conference
+
 
 2023
 :  
