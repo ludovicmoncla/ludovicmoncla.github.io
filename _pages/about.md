@@ -40,7 +40,7 @@ I was previously (2016-2018) a postdoctoral researcher at the Naval Academy Rese
 
 ## Current Research Projects
 
-[PrepaEmadit]() 30 k€) - LabEx ASLAN (2024-2025)
+[PrepaEmadit]() (30 k€) - Univ. Lumière Lyon 2 (2024-2025)
 : PrepaEmadit aims to carry out preliminary research into the automatic processing of lexicographical data extracted from Trévoux's Dictionnaire Universel François-Latin. The funds allocated will be used to acquire the annotated version of the 3rd edition (1743), to digitise the 7th edition (1743) in collaboration with the BnF and to organise a two-day workshop in Lyon.
 <br/>**Project leaders**: D. Vigier ([ICAR](http://icar.cnrs.fr/))
 <br/>**Consortium**: [ICAR](http://icar.cnrs.fr/), [LIRIS](https://liris.cnrs.fr/), [ERIC](https://eric.msh-lse.fr)
