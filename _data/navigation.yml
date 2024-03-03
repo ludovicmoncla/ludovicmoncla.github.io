@@ -4,7 +4,7 @@ main:
     url: /
 
   - title: "Publications"
-    url: https://scholar.google.fr/citations?hl=fr&user=KlJc_7kAAAAJ
+    url: https://scholar.google.fr/citations?hl=fr&user=KlJc_7kAAAAJ&view_op=list_works&sortby=pubdate
 
   - title: "Talks & News"
     url: /talks/    
