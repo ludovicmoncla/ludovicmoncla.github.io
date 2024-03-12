@@ -195,6 +195,9 @@ Professional activities
 
 ## Other
 
+  * Member of the scientific committee of Consortium-HN ARIANE (Analyses, Recherches, Intelligence Artificielle et Nouvelles Editions numériques) - https://cst-ariane.huma-num.fr (2024-)
+  * Member (éxaminateur) of the PhD defense of Lucie Cadorel [Localisation sur le territoire et prise en compte de l’incertitude lors de l’extraction des caractéristiques de biens immobiliers à partir d’annonces](https://www.theses.fr/s259073) (24 January 2024)
+  * Member of the scientific committee of the RAPIDO project (Rendre Accessibles des Publications scientifiques Indexées et liées à des DOnnées certifiées) - https://www.ouvrirlascience.fr/rapido/ (2023-)
   * Member of the editorial board of the IJGIS journal (2022-)
   * Elected member of the Industrial Engineering departement of INSA Lyon (2021-)
   * Member of the steering committee of the “Journée Sciences Navales (JSN) 2018”
