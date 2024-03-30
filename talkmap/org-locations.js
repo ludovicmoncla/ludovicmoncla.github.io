@@ -51,8 +51,8 @@ var addressPoints = [
   ],
   [
     "Bruxelles, Belgique",
-    50.8465573,
-    4.351697
+    50.8550018,
+    4.3512333761166175
   ],
   [
     "Dublin, Ireland",
@@ -61,8 +61,8 @@ var addressPoints = [
   ],
   [
     "Chicago, IL, USA",
-    41.8755616,
-    -87.6244212
+    41.8527815,
+    -87.6639988
   ],
   [
     "Nice, France",
@@ -78,6 +78,11 @@ var addressPoints = [
     "Blois, France",
     47.5876861,
     1.3337639
+  ],
+  [
+    "Glasgow, Scotland, UK",
+    55.861155,
+    -4.2501687
   ],
   [
     "Seattle, WA, USA",
