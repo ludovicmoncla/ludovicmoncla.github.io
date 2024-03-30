@@ -52,30 +52,32 @@ Sep. 2023 - Aou. 2024
 
 2024
 :   
-* **Marc-Antoine Péguet**, Classification automatique des domaines de connaissance d'entrées lexicographiques. Master LLCER Parcours TAL, Université de Franche-Comté. Co-encadrement avec Julien Velcin (ERIC). LabEx ASLAN.
 * **Hedi Zeghidi**, IA hybride (neuro-symbolique) pour la recherche d’information géographique. Master International Machine Learning, Université Jean Monnet. LabEx ASLAN.
+* **Marc-Antoine Péguet**, Classification automatique des domaines de connaissance d'entrées lexicographiques. Master LLCER Parcours TAL, Université de Franche-Comté. Co-encadrement avec Julien Velcin (ERIC). Financement LabEx ASLAN.
+* **Edina Adjaro Patoussi**, Expérimentation et évaluation d’outils d’OLR/OCR. M1 Informatique, Univ. Lyon 2. Co-encadrement avec Julien Velcin (ERIC). Financement Univ. Lyon 2.
+
 
 2023
 :   
-* **Anas Ouardini**, Recherche et classification de sous-graphes dans un GNN pour la reconnaissance d’entités nommées imbriquées. Master DISS, Université Claude Bernard Lyon 1. FIL (Fédération Informatique de Lyon).
-* **Matheus Saraiva**, Analyse géographique et recherche d’information textuelle pour la cartographie de l’Encyclopédie de Diderot et d’Alembert. M1 Géographie Numérique, Université de Saint-Etienne. LabEx ASLAN.
+* **Anas Ouardini**, Recherche et classification de sous-graphes dans un GNN pour la reconnaissance d’entités nommées imbriquées. Master DISS, Université Claude Bernard Lyon 1. Financement FIL (Fédération Informatique de Lyon).
+* **Matheus Saraiva**, Analyse géographique et recherche d’information textuelle pour la cartographie de l’Encyclopédie de Diderot et d’Alembert. M1 Géographie Numérique, Université de Saint-Etienne. Financement LabEx ASLAN.
 
 2022
 :   
-* **Tiphaine Bourgeois**, Graph Neural Network pour l’annotation automatique d’entités nommées imbriquées. Master Technologie des langues, Université de Strasbourg. LabEx ASLAN.
+* **Tiphaine Bourgeois**, Graph Neural Network pour l’annotation automatique d’entités nommées imbriquées. Master Technologie des langues, Université de Strasbourg. Financement LabEx ASLAN.
 
 2021
 :   
-* **Khaled Chabane**, Machine Learning et Word embeddings pour la classification et l’analyse d’articles encyclopédiques. M2 Informatique – Data Mining, Université Lumière Lyon 2. LabEx ASLAN.
+* **Khaled Chabane**, Machine Learning et Word embeddings pour la classification et l’analyse d’articles encyclopédiques. M2 Informatique – Data Mining, Université Lumière Lyon 2. Financement LabEx ASLAN.
 
 2020
 :   
-* **Hussam Ghanem**, Word embeddings et Deep Learning pour la segmentation automatique de textes et l’extraction d’information géographique. M2 Informatique – Sciences des données et des systèmes complexes, Université de Strasbourg. (co-supervised with Prof. Thierry Joliveau). LabEx IMU.
+* **Hussam Ghanem**, Word embeddings et Deep Learning pour la segmentation automatique de textes et l’extraction d’information géographique. M2 Informatique – Sciences des données et des systèmes complexes, Université de Strasbourg. (co-supervised with Prof. Thierry Joliveau). Financement LabEx IMU.
 
 2019
 :   
-* **Christopher Gizard**, Conception d’une méthode hybride d’extraction d’informations géographiques à partir de données textuelles. Université Claude Bernard Lyon 1 (co-supervised with Prof. Thierry Joliveau). LabEx IMU.
-* **Fabien le Chevanton**, Extraction des connaissances relatives à la navigation maritime côtière à partir de données textuelles pour le peuplement d’ontologie. Université de Bretagne Occidentale (co-supervised with Prof. Eric Saux and Wissame Laddada)
+* **Christopher Gizard**, Conception d’une méthode hybride d’extraction d’informations géographiques à partir de données textuelles. Université Claude Bernard Lyon 1 (co-supervised with Prof. Thierry Joliveau). Financement LabEx IMU.
+* **Fabien le Chevanton**, Extraction des connaissances relatives à la navigation maritime côtière à partir de données textuelles pour le peuplement d’ontologie. Université de Bretagne Occidentale (co-supervised with Prof. Eric Saux and Wissame Laddada). Financement Ecole navale.
 
 <br/>
 <!-- -->
