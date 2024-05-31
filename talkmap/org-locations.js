@@ -35,6 +35,11 @@ var addressPoints = [
     7.0518158
   ],
   [
+    "London, UK",
+    51.4893335,
+    -0.14405508452768728
+  ],
+  [
     "Vienna, Austria",
     48.2083537,
     16.3725042
@@ -51,8 +56,8 @@ var addressPoints = [
   ],
   [
     "Bruxelles, Belgique",
-    50.8550018,
-    4.3512333761166175
+    50.8465573,
+    4.351697
   ],
   [
     "Dublin, Ireland",
@@ -61,8 +66,8 @@ var addressPoints = [
   ],
   [
     "Chicago, IL, USA",
-    41.8527815,
-    -87.6639988
+    41.8755616,
+    -87.6244212
   ],
   [
     "Nice, France",
@@ -103,6 +108,11 @@ var addressPoints = [
     "Avignon, France",
     43.9492493,
     4.8059012
+  ],
+  [
+    "Cergy, France",
+    49.0527528,
+    2.0388736
   ],
   [
     "Redondo Beach, CA, USA",
