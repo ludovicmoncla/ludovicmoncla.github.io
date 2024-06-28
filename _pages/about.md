@@ -58,13 +58,6 @@ I was previously (2016-2018) a postdoctoral researcher at the Naval Academy Rese
 <br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [Auvalie Innovation](https://auvalie.com)
 
 
-[ESTD](https://fil.cnrs.fr/les-projets-2023-2024/) (7 k€) - Fédération Informatique de Lyon (2023-2024)
-:   The project deals with the spatio-temporal study of discourse, in two independent (and multilingual: French/English) corpora. The objective is to develop and experiment methods to answer the following questions: 
-How to characterize discourse in general? How to measure and interpret temporal evolutions in the characteristics of
-discourse? How to spatialize the results obtained?
-<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and A. Guille ([ERIC](https://eric.msh-lse.fr))
-<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [ERIC](https://eric.msh-lse.fr)
-
 
 [GEODE](https://geode-project.github.io) (200 k€) - LabEx ASLAN (2020-2024)
 :   GEODE studies the major changes in geographic discourses in French encyclopedias between 1751 (the publication date of the first volume of the Encyclopédie ou dictionnaire raisonné des sciences, des arts et des métiers) and today (Wikipedia-France, 2018). The corpus will include not only these  two encyclopedias, but also La Grande Encyclopédie (1885-1902), the Encyclopædia Universalis (2018). Each of these works constitutes a major step in the editorial history of encyclopedic publications in France since the Enlightenment. Our approach is resolutely interdisciplinary, including experts from linguistics, geographic information retrieval, computational linguistics, geography, history and digital humanities.
@@ -74,6 +67,15 @@ discourse? How to spatialize the results obtained?
 
 
 ## Previous Research Projects
+
+
+[ESTD](https://fil.cnrs.fr/les-projets-2023-2024/) (7 k€) - Fédération Informatique de Lyon (2023-2024)
+:   The project deals with the spatio-temporal study of discourse, in two independent (and multilingual: French/English) corpora. The objective is to develop and experiment methods to answer the following questions: 
+How to characterize discourse in general? How to measure and interpret temporal evolutions in the characteristics of
+discourse? How to spatialize the results obtained?
+<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and A. Guille ([ERIC](https://eric.msh-lse.fr))
+<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [ERIC](https://eric.msh-lse.fr)
+
 
 [CHOUCAS](http://choucas.ign.fr/) - ANR project (2017-2021)
 :   Integration of heterogeneous data and spatial reasoning for assistance in locating victims in mountains. The project CHOUCAS is interdisciplinary involving researchers in geographic information sciences, computer science and natural language processing. The aim of the project is to provide methods and tools for enriching, structuring, querying and visualising spatial data coming from heterogeneous sources and reasoning to help the rescue teams to speed up the phase of victims location and to better estimate a probable location area.
