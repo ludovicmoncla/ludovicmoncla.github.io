@@ -40,6 +40,13 @@ I was previously (2016-2018) a postdoctoral researcher at the Naval Academy Rese
 
 ## Current Research Projects
 
+[ECoDA](https://fil.cnrs.fr/les-projets-2025-2026/) (10 k€) - Fédération Informatique de Lyon (2025-2026)
+:   This inter-laboratory project revolves around two research objectives: 1) Automatic identification of knowledge domains and analysis of their evolution. 2) Construction of a geo-historical knowledge graph (involving spatial and temporal dimensions).
+These objectives will be applied to a corpus of texts composed of several editions of the Dictionnaire Universel François-Latin de Trévoux (DUFLT) published between 1704 and 1771.
+<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and J. Velcin ([ERIC](https://eric.msh-lse.fr))
+<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [ERIC](https://eric.msh-lse.fr), [ICAR](http://icar.cnrs.fr/)
+
+
 [PrepaEmadit]() (30 k€) - Univ. Lumière Lyon 2 (2024-2025)
 :   PrepaEmadit aims to carry out preliminary research into the automatic processing of lexicographical data extracted from Trévoux's Dictionnaire Universel François-Latin. The funds allocated will be used to acquire the annotated version of the 3rd edition (1743), to digitise the 7th edition (1743) in collaboration with the BnF and to organise a two-day workshop in Lyon.
 <br/>**Project leaders**: D. Vigier ([ICAR](http://icar.cnrs.fr/))
