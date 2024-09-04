@@ -9,6 +9,6 @@ location: "Paris, France"
 ---
 
 
-Invited talk at the first workshop of the GeoLiaison PHC project organized by Davide Buscaldi (LIPN) and Jochen L. Leidner (Coburg U.): https://sites.google.com/view/geoliaison
+Invited talk at the first workshop of the GeoLiaison PHC project organized by Davide Buscaldi (LIPN) and Jochen L. Leidner (Coburg U.): [https://sites.google.com/view/geoliaison](https://sites.google.com/view/geoliaison)
 
 Title: "From BERT Fine-Tuning to LLM Prompting: Geospatial Named Entity Recognition in Historical French Texts"
