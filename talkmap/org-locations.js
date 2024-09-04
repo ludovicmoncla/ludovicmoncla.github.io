@@ -56,8 +56,8 @@ var addressPoints = [
   ],
   [
     "Bruxelles, Belgique",
-    50.8465573,
-    4.351697
+    50.8550018,
+    4.3512333761166175
   ],
   [
     "Dublin, Ireland",
@@ -116,7 +116,7 @@ var addressPoints = [
   ],
   [
     "Redondo Beach, CA, USA",
-    33.8455911,
-    -118.3886766
+    33.8398289,
+    -118.3845942
   ]
 ];
