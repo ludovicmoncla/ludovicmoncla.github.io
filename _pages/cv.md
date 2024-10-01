@@ -27,23 +27,23 @@ redirect_from:
 
 Oct. 2024 - ...
 :   
-* **Antoine Taroni**, Interprétabilité des grands modèles de langue : vers une approche hybride neuro-symbolique pour l'analyse du discours géographique. Co-supervised with [Frédérique Laforest](https://perso.liris.cnrs.fr/flaforest/). Bourse doctorale INSA Lyon.
+* **Antoine Taroni**, Interpretability of large language models: towards a hybrid neuro-symbolic approach for geographical discourse analysis. Co-supervised with [Frédérique Laforest](https://perso.liris.cnrs.fr/flaforest/). INSA Lyon doctoral grant.
 
 
 Dec. 2023 - ...
 :   
-* **Yassir Lairgi**, Detection of Weak Signals in Graph-oriented Data: An Approach using LLM and DGNN. Co-supervised with [Khalid Bendabdeslem](http://kbenabde.free.fr/) and [Remy Cazabet](https://cazabetremy.fr). CIFRE.
+* **[Yassir Lairgi](https://lairgiyassir.github.io)**, Detection of Weak Signals in Graph-oriented Data: An Approach using LLM and DGNN. Co-supervised with [Khalid Bendabdeslem](http://kbenabde.free.fr/) and [Remy Cazabet](https://cazabetremy.fr). CIFRE.
 
 
 Fev. 2021 - ...
 :   
-* **Alice Brenon**, Methods and Tools for the Diachronic Study of Geographic Discourse in French Encylopedia. GEODE project. Co-supervised with [Frédérique Laforest](https://perso.liris.cnrs.fr/flaforest/) and [Denis Vigier](http://www.icar.cnrs.fr/membre/dvigier/). LabEx ASLAN.
+* **[Alice Brenon](https://perso.liris.cnrs.fr/abrenon/)**, Methods and Tools for the Diachronic Study of Geographic Discourse in French Encylopedia. GEODE project. Co-supervised with [Frédérique Laforest](https://perso.liris.cnrs.fr/flaforest/) and [Denis Vigier](http://www.icar.cnrs.fr/membre/dvigier/). LabEx ASLAN.
 
 ## Postdoctoral Students
 
 2020
 :   
-* **Jacques Fize**, Design of hybrid NLP and Data Mining methods for extracting geographical information. HextGEO project. IMPULSION IDEX LYON.
+* **[Jacques Fize](https://jacquesfize.com)**, Design of hybrid NLP and Data Mining methods for extracting geographical information. HextGEO project. IMPULSION IDEX LYON.
 
 
 ## Research engineers
@@ -58,8 +58,8 @@ Sep. 2023 - Aou. 2024
 2024
 :   
 * **Hedi Zeghidi**, IA hybride (neuro-symbolique) pour la recherche d’information géographique. Master International Machine Learning, Université Jean Monnet. LabEx ASLAN.
-* **Marc-Antoine Péguet**, Classification automatique des domaines de connaissance d'entrées lexicographiques. Master LLCER Parcours TAL, Université de Franche-Comté. Co-encadrement avec Julien Velcin (ERIC). Financement LabEx ASLAN.
-* **Edina Adjaro Patoussi**, Expérimentation et évaluation d’outils d’OLR/OCR. M1 Informatique, Univ. Lyon 2. Co-encadrement avec Julien Velcin (ERIC). Financement Univ. Lyon 2.
+* **Marc-Antoine Péguet**, Classification automatique des domaines de connaissance d'entrées lexicographiques. Master LLCER Parcours TAL, Université de Franche-Comté. Co-encadrement avec [Julien Velcin](https://velcin.github.io) (ERIC). Financement LabEx ASLAN.
+* **Edina Adjaro Patoussi**, Expérimentation et évaluation d’outils d’OLR/OCR. M1 Informatique, Univ. Lyon 2. Co-encadrement avec [Julien Velcin](https://velcin.github.io) (ERIC). Financement Univ. Lyon 2.
 
 
 2023
