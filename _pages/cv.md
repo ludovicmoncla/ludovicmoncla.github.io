@@ -25,20 +25,25 @@ redirect_from:
 
 ## PhD Students
 
+Oct. 2024 - ...
+:   
+* **Antoine Taroni**, Interprétabilité des grands modèles de langue : vers une approche hybride neuro-symbolique pour l'analyse du discours géographique. Co-supervised with [Frédérique Laforest](https://perso.liris.cnrs.fr/flaforest/). Bourse doctorale INSA Lyon.
+
+
 Dec. 2023 - ...
 :   
-* **Yassir Lairgi**, LLM, Knowledge Graphs and DGNN for competitive intelligence (co-supervised with Khalid Bendabdeslem and Remy Cazabet). CIFRE.
+* **Yassir Lairgi**, Detection of Weak Signals in Graph-oriented Data: An Approach using LLM and DGNN. Co-supervised with [Khalid Bendabdeslem](http://kbenabde.free.fr/) and [Remy Cazabet](https://cazabetremy.fr). CIFRE.
 
 
 Fev. 2021 - ...
 :   
-* **Alice Brenon**, Méthodes et outils pour l’étude diachronique des discours géographiques dans les encyclopédies françaises. GEODE project (co-supervised with Frédérique Laforest and Denis Vigier). LabEx ASLAN.
+* **Alice Brenon**, Methods and Tools for the Diachronic Study of Geographic Discourse in French Encylopedia. GEODE project. Co-supervised with [Frédérique Laforest](https://perso.liris.cnrs.fr/flaforest/) and [Denis Vigier](http://www.icar.cnrs.fr/membre/dvigier/). LabEx ASLAN.
 
 ## Postdoctoral Students
 
 2020
 :   
-* **Jacques Fize**, Conception de méthodes hybrides TAL et Data Mining pour l’extraction d’information géographique. HextGEO project. IMPULSION IDEX LYON.
+* **Jacques Fize**, Design of hybrid NLP and Data Mining methods for extracting geographical information. HextGEO project. IMPULSION IDEX LYON.
 
 
 ## Research engineers
