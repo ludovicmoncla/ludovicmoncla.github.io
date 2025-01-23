@@ -12,3 +12,4 @@ Gemfile.lock
 node_modules
 package-lock.json
 images/.DS_Store
+talkmap/.DS_Store
