@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Ludovic Moncla
-======
-
 
 Associate professor in computer science at [INSA Lyon](https://www.insa-lyon.fr/) ([Department of Industrial Engineering](https://gi.insa-lyon.fr/)) and [LIRIS laboratory](https://liris.cnrs.fr/) (UMR 5205 CNRS).
 
