@@ -35,6 +35,13 @@ I was previously (2016-2018) a postdoctoral researcher at the Naval Academy Rese
 
 ## Current Research Projects
 
+
+[KOGIA]() - CIFRE (2023-2026)
+:   Large Language Models, Knowledge Graphs and Dynamic Graph Neural Networks for competitive intelligence
+<br/>**Project leaders**: L. Moncla, K. Benabdeslem, R. Cazabet ([LIRIS](https://liris.cnrs.fr/)) and P. Cleau ([Auvalie Innovation](https://auvalie.com))
+<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [Auvalie Innovation](https://auvalie.com)
+
+
 [ECoDA](https://fil.cnrs.fr/les-projets-2025-2026/) (10 k€) - Fédération Informatique de Lyon (2025-2026)
 :   This inter-laboratory project revolves around two research objectives: 1) Automatic identification of knowledge domains and analysis of their evolution. 2) Construction of a geo-historical knowledge graph (involving spatial and temporal dimensions).
 These objectives will be applied to a corpus of texts composed of several editions of the Dictionnaire Universel François-Latin de Trévoux (DUFLT) published between 1704 and 1771.
@@ -54,11 +61,10 @@ These objectives will be applied to a corpus of texts composed of several editio
 <br/>**Consortium**: [ICAR](http://icar.cnrs.fr/), [LIRIS](https://liris.cnrs.fr/), [ERIC](https://eric.msh-lse.fr)
 
 
-[KOGIA]() - CIFRE (2023-2026)
-:   Large Language Models, Knowledge Graphs and Dynamic Graph Neural Networks for competitive intelligence
-<br/>**Project leaders**: K. Benabdeslem, L. Moncla, R. Cazabet ([LIRIS](https://liris.cnrs.fr/)) and P. Cleau ([Auvalie Innovation](https://auvalie.com))
-<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [Auvalie Innovation](https://auvalie.com)
 
+
+
+## Previous Research Projects
 
 
 [GEODE](https://geode-project.github.io) (200 k€) - LabEx ASLAN (2020-2024)
@@ -66,18 +72,12 @@ These objectives will be applied to a corpus of texts composed of several editio
 <br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and D. Vigier ([ICAR](http://icar.cnrs.fr/))
 <br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [ICAR](http://icar.cnrs.fr/), [EVS](http://umr5600.cnrs.fr/fr/accueil/), [LLF](http://www.llf.cnrs.fr/), [LIDILEM](https://lidilem.univ-grenoble-alpes.fr/)
 
-
-
-## Previous Research Projects
-
-
 [ESTD](https://fil.cnrs.fr/les-projets-2023-2024/) (7 k€) - Fédération Informatique de Lyon (2023-2024)
 :   The project deals with the spatio-temporal study of discourse, in two independent (and multilingual: French/English) corpora. The objective is to develop and experiment methods to answer the following questions: 
 How to characterize discourse in general? How to measure and interpret temporal evolutions in the characteristics of
 discourse? How to spatialize the results obtained?
 <br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and A. Guille ([ERIC](https://eric.msh-lse.fr))
 <br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [ERIC](https://eric.msh-lse.fr)
-
 
 [CHOUCAS](http://choucas.ign.fr/) - ANR project (2017-2021)
 :   Integration of heterogeneous data and spatial reasoning for assistance in locating victims in mountains. The project CHOUCAS is interdisciplinary involving researchers in geographic information sciences, computer science and natural language processing. The aim of the project is to provide methods and tools for enriching, structuring, querying and visualising spatial data coming from heterogeneous sources and reasoning to help the rescue teams to speed up the phase of victims location and to better estimate a probable location area.
@@ -94,24 +94,20 @@ discourse? How to spatialize the results obtained?
 <br/>**Project leader**: L. Moncla ([LIRIS](https://liris.cnrs.fr/))
 <br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/)
 
-
 [GéoDisco](https://www.msh-lse.fr/projet19/geodisco) - MSH Lyon St-Etienne (2019-2020)
 :   Géodisco combines **GIS**, **NLP**, **textometry** and **discourse analysis** around the same question: “What geographical representations of the world do French encyclopedias convey through their discourses, and what do these representations tell us about the time when these encyclopedias were written and published? This project is part of a network of national and international collaborations around encyclopedias and dictionaries.
 <br/>**Project leader**: D. Vigier ([ICAR](http://icar.cnrs.fr/))
 <br/>**Consortium**: [ICAR](http://icar.cnrs.fr/), [LIRIS](https://liris.cnrs.fr/), [EVS](http://umr5600.cnrs.fr/fr/accueil/)
-
 
 [HIL](https://imu.universite-lyon.fr/projet/hil-intelligence-artificielle-pour-faciliter-la-recherche-immobiliere-systeme-de-recommandation-avec-visualisation-spatiale-et-non-spatiale-pour-la-recherche-immobiliere-2017/) - LabEx IMU (2017-2020)
 :   The aim of the project is to improve the **spatial recommendation procedures** by proposing neighbourhoods to people seeking housing. It consists of two parts. The first concerns the **analysis and categorisation of neighbourhoods** through a multidisciplinary perspective. Based on existing data, this involves producing an original typology of neighbourhoods in the Lyon conurbation and formalising these results and selected indicators in a computer model. The second part concerns the recommendation itself, with the aim of developing a method for matching the types of neighbourhood and the profiles of purchasers using the Home in Love platform.
 <br/>**Project leaders**: L. Bonneval ([CMW](https://www.centre-max-weber.fr/)) and F. Favetta ([LIRIS](https://liris.cnrs.fr/)) 
 <br/>**Consortium**: [CMW](https://www.centre-max-weber.fr/), [LIRIS](https://liris.cnrs.fr/), [Home in Love](https://homeinlove.fr/)
 
-
 [YACA](http://erig.univ-pau.fr/PERDIDO/) - Interreg Aquitaine-Aragon (2015-2017)
 :   Open Source implementation of the multilingual processing chain for recognition, disambiguation and geocoding of place names from hiking descriptions.
 <br/>**Project leader**: M. Gaio ([LIUPPA](https://liuppa.univ-pau.fr/fr/index.html))
 <br/>**Consortium**: [LIUPPA](https://liuppa.univ-pau.fr/fr/index.html), [IAAA](https://www.iaaa.es/)
-
 
 [PERDIDO](http://erig.univ-pau.fr/PERDIDO/) - CDAPP-IGN (2012-2015)
 :   Project for extracting and retrieving displacements from textual documents. The main objective is the automatic geocoding of itineraries described in natural language. The work is divided into two main tasks. The first task aims at identifying and extracting information describing the itinerary in texts such as spatial named entities and expressions of displacement or perception. The second task deals with the reconstruction of the itinerary. 
@@ -121,7 +117,7 @@ discourse? How to spatialize the results obtained?
 
 ## Research interest
 
-  * Natural Language Processing (NLP), Text mining and Linked Data (LOD)
+  * Natural Language Processing (NLP), Information Retrieval (IR) and Knowledge Graphs (KGs)
   * Geographical Information Retrieval (GIR)
   * Hybrid approaches for IR (machine learning and rule based methods)
   * Digital humanities
@@ -133,7 +129,7 @@ discourse? How to spatialize the results obtained?
 ### Current
   * Data Science
   * Algorithms and data structures
-  * Programming
+  * Python programming
   * Databases and XML
 
 ### Past
