@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 {% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
+<div align="center">
+  <iframe src="/talkmap/map.html" height="550" width="850" style="border:none;"></iframe>
+  </div>
 {% endif %}
 
 {% for post in site.talks reversed %}
