@@ -21,13 +21,13 @@ repository               : "ludovicmoncla/ludovicmoncla.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Ludovic Moncla"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor | INSA Lyon, LIRIS CNRS UMR 5205"
   location         : "Lyon, France"
   employer         : "INSA Lyon"
-  uri              : # URL
+  uri              : "https://ludovicmoncla.github.io"# URL
   email            : "ludovic[dot]moncla[at]insa-lyon.fr" 
 
   # Academic websites
