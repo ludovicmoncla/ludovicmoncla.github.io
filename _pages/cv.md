@@ -28,7 +28,7 @@ redirect_from:
 
 Oct. 2024 - ...
 :   
-* **Antoine Taroni**, Interpretability of large language models: towards a hybrid neuro-symbolic approach for geographical discourse analysis. Co-supervised with [Frédérique Laforest](https://perso.liris.cnrs.fr/flaforest/). INSA Lyon doctoral grant.
+* **[Antoine Taroni](https://cv.hal.science/antoine-taroni)**, Interpretability of large language models: towards a hybrid neuro-symbolic approach for geographical discourse analysis. Co-supervised with [Frédérique Laforest](https://perso.liris.cnrs.fr/flaforest/). INSA Lyon doctoral grant.
 
 
 Dec. 2023 - ...
