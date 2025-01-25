@@ -93,9 +93,13 @@ Professional activities
 
 ## Member of organization committees
 
+2025
+:  
+   * 3rd International [Workshop on Geographic Information Extraction from Texts](https://geo-ext.github.io/GeoExT2025/) (GeoExT 2025) at the [ECIR 2025](https://ecir2025.eu/) conference
+
 2024
 :  
-   * 2nd International Workshop on Geographic Information Extraction from Texts (GeoExT 2024) at the [ECIR 2024](https://www.ecir2024.org) conference
+   * 2nd International [Workshop on Geographic Information Extraction from Texts](https://geo-ext.github.io/GeoExT2024/) (GeoExT 2024) at the [ECIR 2024](https://www.ecir2024.org) conference
    * IJGIS Special Issue on [https://think.taylorandfrancis.com/special_issues/extracting-analysing-geographic-information-natural-language-texts/](Extracting and analysing geographic information from natural language texts)
 
 
@@ -130,6 +134,12 @@ Professional activities
 
 
 ## Member of program committees and reviewer
+
+
+2025
+:  
+  * 8th International Workshop on Narrative Extraction from Texts ([Text2Story’25](https://text2story25.inesctec.pt)) at [ECIR2025](https://ecir2025.eu/)
+  * Workshop [Graphes de connaissances et Ontologies : de l'Apprentissage à l'Exploitation](https://sites.google.com/view/gole-egc2025/accueil) (GOLE)" at the [EGC 2025](https://www.egc2025.cnrs.fr/) conference
 
 
 2024
