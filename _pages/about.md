@@ -64,7 +64,7 @@ These objectives will be applied to a corpus of texts composed of several editio
 
 
 
-## Previous Research Projects
+## Past Research Projects
 
 
 [GEODE](https://geode-project.github.io) (200 k€) - LabEx ASLAN (2020-2024)
