@@ -56,6 +56,10 @@ Sep. 2023 - Aou. 2024
 
 ## MSc Students
 
+2025
+:   
+* **Bin Yang**, Construction automatique d’un graphe de connaissances géo-historiques à partir d’entrées encyclopédiques. Master Sciences du langage, Université Grenoble Alpes. Co-encadrement avec [Fabien Duchateau](https://velcin.github.io) (LIRIS) et Frédérique Laforest (LIRIS). Financement FIL.
+
 2024
 :   
 * **Hedi Zeghidi**, IA hybride (neuro-symbolique) pour la recherche d’information géographique. Master International Machine Learning, Université Jean Monnet. LabEx ASLAN.
@@ -90,6 +94,13 @@ Sep. 2023 - Aou. 2024
 
 Professional activities
 ======
+
+## PhD jury member
+
+* Member (Examiner) of the PhD defense of Alicia Blanchi [Les Représentations Socio-Spatiales des espaces métropolitains à travers les annonces immobilières géolocalisées](https://theses.fr/s312999). Université Côte d'Azur. 4 March 2025
+
+* Member (Examiner) of the PhD defense of Lucie Cadorel [Localisation sur le territoire et prise en compte de l’incertitude lors de l’extraction des caractéristiques de biens immobiliers à partir d’annonces](https://www.theses.fr/s259073). Université Côte d'Azur. 24 January 2024
+
 
 ## Member of organization committees
 
@@ -213,9 +224,8 @@ Professional activities
 
 ## Other
 
-  * Member of the scientific committee of Consortium-HN ARIANE (Analyses, Recherches, Intelligence Artificielle et Nouvelles Editions numériques) - https://cst-ariane.huma-num.fr (2024-)
-  * Member (éxaminateur) of the PhD defense of Lucie Cadorel [Localisation sur le territoire et prise en compte de l’incertitude lors de l’extraction des caractéristiques de biens immobiliers à partir d’annonces](https://www.theses.fr/s259073) (24 January 2024)
-  * Member of the scientific committee of the RAPIDO project (Rendre Accessibles des Publications scientifiques Indexées et liées à des DOnnées certifiées) - https://www.ouvrirlascience.fr/rapido/ (2023-)
+  * Member of the scientific committee of Consortium-HN ARIANE (Analyses, Recherches, Intelligence Artificielle et Nouvelles Editions numériques) - [https://cst-ariane.huma-num.fr](https://cst-ariane.huma-num.fr) (2024-)
+  * Member of the scientific committee of the RAPIDO project (Rendre Accessibles des Publications scientifiques Indexées et liées à des DOnnées certifiées) - [https://www.ouvrirlascience.fr/rapido/](https://www.ouvrirlascience.fr/rapido/) (2023-)
   * Member of the editorial board of the IJGIS journal (2022-)
   * Elected member of the Industrial Engineering departement of INSA Lyon (2021-)
   * Member of the steering committee of the “Journée Sciences Navales (JSN) 2018”
