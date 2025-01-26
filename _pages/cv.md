@@ -58,14 +58,14 @@ Sep. 2023 - Aou. 2024
 
 2025
 :   
-* **Bin Yang**, Construction automatique d’un graphe de connaissances géo-historiques à partir d’entrées encyclopédiques. Master Sciences du langage, Université Grenoble Alpes. Co-encadrement avec [Fabien Duchateau](https://velcin.github.io) (LIRIS) et Frédérique Laforest (LIRIS). Financement FIL.
+* **Bin Yang**, Construction automatique d’un graphe de connaissances géo-historiques à partir d’entrées encyclopédiques. Master Sciences du langage, Université Grenoble Alpes. Co-encadrement avec Fabien Duchateau (LIRIS) et Frédérique Laforest (LIRIS). Financement FIL.
 
 2024
 :   
 * **Hedi Zeghidi**, IA hybride (neuro-symbolique) pour la recherche d’information géographique. Master International Machine Learning, Université Jean Monnet. LabEx ASLAN.
 <br> 📝 [Rapport](/files/2024_rapport-stage_ZEGHIDI_Hedi.pdf) - 🖥 [Slides soutenance](/files/2024_slides-soutenance-stage_ZEGHIDI_Hedi.pdf)
-* **Marc-Antoine Péguet**, Classification automatique des domaines de connaissance d'entrées lexicographiques. Master LLCER Parcours TAL, Université de Franche-Comté. Co-encadrement avec [Julien Velcin](https://velcin.github.io) (ERIC). Financement LabEx ASLAN.
-* **Edina Adjaro Patoussi**, Expérimentation et évaluation d’outils d’OLR/OCR. M1 Informatique, Univ. Lyon 2. Co-encadrement avec [Julien Velcin](https://velcin.github.io) (ERIC). Financement Univ. Lyon 2.
+* **Marc-Antoine Péguet**, Classification automatique des domaines de connaissance d'entrées lexicographiques. Master LLCER Parcours TAL, Université de Franche-Comté. Co-encadrement avec Julien Velcin (ERIC). Financement LabEx ASLAN.
+* **Edina Adjaro Patoussi**, Expérimentation et évaluation d’outils d’OLR/OCR. M1 Informatique, Univ. Lyon 2. Co-encadrement avec Julien Velcin (ERIC). Financement Univ. Lyon 2.
 <br> 📝 [Rapport](/files/2024_rapport-stage_ADJARO_PATOUSSI_Edina.pdf) - 🖥 [Slides soutenance](/files/2024_slides-soutenance-stage_ADJARO_PATOUSSI_Edina.pdf)
 
 
