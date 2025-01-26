@@ -64,7 +64,7 @@ Sep. 2023 - Aou. 2024
 :   
 * **Hedi Zeghidi**, IA hybride (neuro-symbolique) pour la recherche d’information géographique. Master International Machine Learning, Université Jean Monnet. LabEx ASLAN.
 * **Marc-Antoine Péguet**, Classification automatique des domaines de connaissance d'entrées lexicographiques. Master LLCER Parcours TAL, Université de Franche-Comté. Co-encadrement avec [Julien Velcin](https://velcin.github.io) (ERIC). Financement LabEx ASLAN.
-* **Edina Adjaro Patoussi**, Expérimentation et évaluation d’outils d’OLR/OCR. M1 Informatique, Univ. Lyon 2. Co-encadrement avec [Julien Velcin](https://velcin.github.io) (ERIC). Financement Univ. Lyon 2.
+* **Edina Adjaro Patoussi**, Expérimentation et évaluation d’outils d’OLR/OCR. M1 Informatique, Univ. Lyon 2. Co-encadrement avec [Julien Velcin](https://velcin.github.io) (ERIC). Financement Univ. Lyon 2.  [📝 Rapport](/files/2024_rapport-stage_ADJARO_PATOUSSI_Edina.pdf) -  [🖥 Slides soutenance](/files/2024_slides-soutenance-stage_ADJARO_PATOUSSI_Edina.pdf)
 
 
 2023
