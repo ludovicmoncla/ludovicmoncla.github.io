@@ -63,14 +63,20 @@ Sep. 2023 - Aou. 2024
 2024
 :   
 * **Hedi Zeghidi**, IA hybride (neuro-symbolique) pour la recherche d’information géographique. Master International Machine Learning, Université Jean Monnet. LabEx ASLAN.
+<br> 📝 [Rapport](/files/2024_rapport-stage_ZEGHIDI_Hedi.pdf) - 🖥 [Slides soutenance](/files/2024_slides-soutenance-stage_ZEGHIDI_Hedi.pdf)
 * **Marc-Antoine Péguet**, Classification automatique des domaines de connaissance d'entrées lexicographiques. Master LLCER Parcours TAL, Université de Franche-Comté. Co-encadrement avec [Julien Velcin](https://velcin.github.io) (ERIC). Financement LabEx ASLAN.
-* **Edina Adjaro Patoussi**, Expérimentation et évaluation d’outils d’OLR/OCR. M1 Informatique, Univ. Lyon 2. Co-encadrement avec [Julien Velcin](https://velcin.github.io) (ERIC). Financement Univ. Lyon 2.  [📝 Rapport](/files/2024_rapport-stage_ADJARO_PATOUSSI_Edina.pdf) -  [🖥 Slides soutenance](/files/2024_slides-soutenance-stage_ADJARO_PATOUSSI_Edina.pdf)
+* **Edina Adjaro Patoussi**, Expérimentation et évaluation d’outils d’OLR/OCR. M1 Informatique, Univ. Lyon 2. Co-encadrement avec [Julien Velcin](https://velcin.github.io) (ERIC). Financement Univ. Lyon 2.
+<br> 📝 [Rapport](/files/2024_rapport-stage_ADJARO_PATOUSSI_Edina.pdf) - 🖥 [Slides soutenance](/files/2024_slides-soutenance-stage_ADJARO_PATOUSSI_Edina.pdf)
 
 
 2023
 :   
-* **Anas Ouardini**, Recherche et classification de sous-graphes dans un GNN pour la reconnaissance d’entités nommées imbriquées. Master DISS, Université Claude Bernard Lyon 1. Financement FIL (Fédération Informatique de Lyon).
+* **Anas Ouardini**, Graph Neural Network for Named Entity Recognition and Nested Named Entity Classification. Master DISS, Université Claude Bernard Lyon 1. Financement FIL (Fédération Informatique de Lyon).
+<br> 📝 [Rapport](/files/2023_rapport-stage_OUARDINI_Anas.pdf) - 🖥 [Slides soutenance](/files/2023_slides-soutenance-stage_OUARDINI_Anas.pdf)
 * **Matheus Saraiva**, Analyse géographique et recherche d’information textuelle pour la cartographie de l’Encyclopédie de Diderot et d’Alembert. M1 Géographie Numérique, Université de Saint-Etienne. Financement LabEx ASLAN.
+<br> 📝 [Rapport](/files/2023_rapport-stage_SARAIVA_Saraiva.pdf)
+
+
 
 2022
 :   
@@ -78,16 +84,20 @@ Sep. 2023 - Aou. 2024
 
 2021
 :   
-* **Khaled Chabane**, Machine Learning et Word embeddings pour la classification et l’analyse d’articles encyclopédiques. M2 Informatique – Data Mining, Université Lumière Lyon 2. Financement LabEx ASLAN.
+* **Khaled Chabane**, Machine Learning et Word embeddings pour la classification et l’analyse d’articles encyclopédiques. M2 Informatique – Data Mining, Université Lumière Lyon 2. Financement LabEx ASLAN. 
+<br> 📝 [Rapport](/files/2021_rapport-stage_CHABANE_Khaled.pdf)
 
 2020
 :   
 * **Hussam Ghanem**, Word embeddings et Deep Learning pour la segmentation automatique de textes et l’extraction d’information géographique. M2 Informatique – Sciences des données et des systèmes complexes, Université de Strasbourg. (co-supervised with Prof. Thierry Joliveau). Financement LabEx IMU.
+<br> 📝 [Rapport](/files/2020_rapport-stage_GHANEM_Hussam.pdf)
 
 2019
 :   
 * **Christopher Gizard**, Conception d’une méthode hybride d’extraction d’informations géographiques à partir de données textuelles. Université Claude Bernard Lyon 1 (co-supervised with Prof. Thierry Joliveau). Financement LabEx IMU.
+<br> 📝 [Rapport](/files/2019_rapport-stage_GIZARD_Christopher.pdf) - 🖥 [Slides soutenance](/files/2019_slides-soutenance-stage_GIZARD_Christopher.pdf)
 * **Fabien le Chevanton**, Extraction des connaissances relatives à la navigation maritime côtière à partir de données textuelles pour le peuplement d’ontologie. Université de Bretagne Occidentale (co-supervised with Prof. Eric Saux and Wissame Laddada). Financement Ecole navale.
+<br> 📝 [Rapport](/files/2019_rapport-stage_LeCHEVANTON_Fabien.pdf)
 
 <br/>
 <!-- -->
