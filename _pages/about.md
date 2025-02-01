@@ -11,10 +11,10 @@ redirect_from:
 Associate professor in computer science at [INSA Lyon](https://www.insa-lyon.fr/) ([Department of Industrial Engineering](https://gi.insa-lyon.fr/)) and [LIRIS laboratory](https://liris.cnrs.fr/) (UMR 5205 CNRS).
 
 
-Leader of the "[Humanités Numériques Spatialisées](https://hns-magis.github.io)" working group of [CNRS GdR MAGIS](http://gdr-magis.imag.fr/) with [C. Brando](http://crh.ehess.fr/index.php?5088).
+Co-leader of the [Humanités Numériques Spatialisées](https://hns-magis.github.io) working group of [CNRS GdR MAGIS](https://gdr-magis.cnrs.fr) with [C. Brando](http://crh.ehess.fr/index.php?5088).
 <br/>
-<br/>Member of LabEx [ASLAN](https://aslan.universite-lyon.fr/).
-<br/>Member of LabEx [IMU](https://imu.universite-lyon.fr/qui-sommes-nous/acteurs-du-labex/laboratoires-equipes/membres-imu-liris/) (Intelligence des Mondes Urbains).
+<br/>Member of LabEx [ASLAN](https://aslan.universite-lyon.fr/) and scientific manager of the [Modeling and Digital Humanities Work Package](https://aslan.universite-lyon.fr/modeling-and-digital-humanities/).
+<br/>Member of [Consortium-HN ARIANE](https://cst-ariane.huma-num.fr) (Analyses, Recherches, Intelligence Artificielle et Nouvelles Editions numériques)
 <br/>Member of [SciDoLySE](http://scidolyse.ens-lyon.fr/) (Science des Données à Lyon et Saint-Etienne) research group.
 <br/>Member of the [ObTIC](https://obtic.sorbonne-universite.fr/) team at Sorbonne University.
 
@@ -22,12 +22,12 @@ Leader of the "[Humanités Numériques Spatialisées](https://hns-magis.github.i
 
 
 <address>
-  INSA Lyon, Université de Lyon,<br />LIRIS (UMR 5205 CNRS)<br />Batiment Blaise Pascal<br /> F-69621 Villeurbanne cedex, France<br /> 
+  INSA Lyon, <br />LIRIS (UMR 5205 CNRS)<br />Campus La Doua, Batiment Blaise Pascal, 7 avenue Jean Capelle<br /> 69100 Villeurbanne cedex, France<br /> 
 </address>
 {: .notice}
 
 
-My research is oriented towards pluri-disciplinary aspects of Natural Language Processing (NLP), information retrieval, data mining, digital humanities and geographical information science  (GIS) (cf. [list of publications](https://ludovicmoncla.github.io/publications/)).<br/>
+My research is oriented towards pluri-disciplinary aspects of Natural Language Processing (NLP), information retrieval, data mining, digital humanities and geographical information science  (GIS) (cf. [list of publications](https://scholar.google.fr/citations?hl=fr&user=KlJc_7kAAAAJ&view_op=list_works&sortby=pubdate)).<br/>
 I was previously (2016-2018) a postdoctoral researcher at the Naval Academy Research Institute (IRENav) in France, where I worked with [Prof. C. Claramunt](http://christophe.claramunt.free.fr/). I hold a PhD in computer science from the University of Pau (France) and University of Zaragoza (Spain) (supervised by [Prof. M. Gaio](https://lma-umr5142.univ-pau.fr/fr/_plugins/mypage/mypage/content/mgaio.html), [Prof. J. Nogueras-Iso](https://www.iaaa.es/staff/jnog/) and [Dr. S. Mustière](http://recherche.ign.fr/labos/cogit/cv.php?nom=Musti%E8re)).
 
 
@@ -38,12 +38,12 @@ I was previously (2016-2018) a postdoctoral researcher at the Naval Academy Rese
 
 [KOGIA]() - CIFRE (2023-2026)
 :   Large Language Models, Knowledge Graphs and Dynamic Graph Neural Networks for competitive intelligence
-<br/>**Project leaders**: L. Moncla, K. Benabdeslem, R. Cazabet ([LIRIS](https://liris.cnrs.fr/)) and P. Cleau ([Auvalie Innovation](https://auvalie.com))
+<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and P. Cleau ([Auvalie Innovation](https://auvalie.com))
 <br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [Auvalie Innovation](https://auvalie.com)
 
 
 [ECoDA](https://fil.cnrs.fr/les-projets-2025-2026/) (10 k€) - Fédération Informatique de Lyon (2025-2026)
-:   This inter-laboratory project revolves around two research objectives: 1) Automatic identification of knowledge domains and analysis of their evolution. 2) Construction of a geo-historical knowledge graph (involving spatial and temporal dimensions).
+:   This inter-laboratory project revolves around two research objectives: 1. Automatic identification of knowledge domains and analysis of their evolution. 2. Construction of a geo-historical knowledge graph (involving spatial and temporal dimensions).
 These objectives will be applied to a corpus of texts composed of several editions of the Dictionnaire Universel François-Latin de Trévoux (DUFLT) published between 1704 and 1771.
 <br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and J. Velcin ([ERIC](https://eric.msh-lse.fr))
 <br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [ERIC](https://eric.msh-lse.fr), [ICAR](http://icar.cnrs.fr/)
@@ -145,7 +145,7 @@ discourse? How to spatialize the results obtained?
 ## Contact
 
 <address>
-  INSA Lyon, Université de Lyon,<br />LIRIS (UMR 5205 CNRS)<br />Batiment Blaise Pascal<br /> F-69621 Villeurbanne cedex, France<br /> 
+  INSA Lyon, <br />LIRIS (UMR 5205 CNRS)<br />Campus La Doua, Batiment Blaise Pascal, 7 avenue Jean Capelle<br /> 69100 Villeurbanne cedex, France<br /> 
 </address>
 {: .notice}
 
