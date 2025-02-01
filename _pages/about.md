@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Associate professor in computer science at [INSA Lyon](https://www.insa-lyon.fr/) ([Department of Industrial Engineering](https://gi.insa-lyon.fr/)) and [LIRIS laboratory](https://liris.cnrs.fr/) (UMR 5205 CNRS).
+Associate professor in computer science at the [Industrial Engineering Department](https://gi.insa-lyon.fr/) of [INSA Lyon](https://www.insa-lyon.fr/) and [Data Mining and Machine Learning](https://projet.liris.cnrs.fr/dm2l/) research group at [LIRIS laboratory](https://liris.cnrs.fr/) (UMR 5205 CNRS).
 
 
 * Co-leader of the [Humanités Numériques Spatialisées](https://hns-magis.github.io) working group of [CNRS GdR MAGIS](https://gdr-magis.cnrs.fr) with [C. Brando](http://crh.ehess.fr/index.php?5088).
