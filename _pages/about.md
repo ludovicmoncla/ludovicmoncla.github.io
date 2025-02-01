@@ -33,12 +33,11 @@ I was previously (2016-2018) a postdoctoral researcher at the Naval Academy Rese
 
 ## Research interest
 
-  * Natural Language Processing (NLP), Information Retrieval (IR) and Knowledge Graphs (KGs)
+  * Natural Language Processing (NLP)
+  * Information Retrieval (IR) and Knowledge Graphs (KGs)
   * Geographical Information Retrieval (GIR)
   * Hybrid approaches for IR (machine learning and rule based methods)
   * Digital humanities
-  * Semantic-based GIS
-
 
 
 ## Current Research Projects
