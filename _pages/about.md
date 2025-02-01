@@ -24,7 +24,7 @@ Associate professor in computer science at the [Industrial Engineering Departmen
 {: .notice}
 
 
-My research is oriented towards pluri-disciplinary aspects of Natural Language Processing (NLP), information retrieval, data mining, digital humanities and geographical information science  (GIS) (cf. [list of publications](https://scholar.google.fr/citations?hl=fr&user=KlJc_7kAAAAJ&view_op=list_works&sortby=pubdate)).<br/>
+My research is oriented towards pluri-disciplinary aspects of Natural Language Processing (NLP), Knowledge Graphs (KGs), Information Retrieval (IR), Digital Humanities (DH) and Geographical Information Science  (GIS) (cf. [list of publications](https://scholar.google.fr/citations?hl=fr&user=KlJc_7kAAAAJ&view_op=list_works&sortby=pubdate)).<br/>
 I was previously (2016-2018) a postdoctoral researcher at the Naval Academy Research Institute (IRENav) in France, where I worked with [Prof. C. Claramunt](http://christophe.claramunt.free.fr/). I hold a PhD in computer science from the University of Pau (France) and University of Zaragoza (Spain) (supervised by [Prof. M. Gaio](https://lma-umr5142.univ-pau.fr/fr/_plugins/mypage/mypage/content/mgaio.html), [Prof. J. Nogueras-Iso](https://www.iaaa.es/staff/jnog/) and [Dr. S. Mustière](http://recherche.ign.fr/labos/cogit/cv.php?nom=Musti%E8re)).
 
 
