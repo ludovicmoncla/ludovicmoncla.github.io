@@ -235,9 +235,11 @@ Professional activities
 ## Other
 
   * Member of the scientific committee of Consortium-HN ARIANE (Analyses, Recherches, Intelligence Artificielle et Nouvelles Editions numériques) - [https://cst-ariane.huma-num.fr](https://cst-ariane.huma-num.fr) (2024-)
+  * Evaluator for the ANR evaluation committee CE38 - Interfaces : mathématiques, sciences du numérique – sciences humaines et sociales (2024)
   * Member of the scientific committee of the RAPIDO project (Rendre Accessibles des Publications scientifiques Indexées et liées à des DOnnées certifiées) - [https://www.ouvrirlascience.fr/rapido/](https://www.ouvrirlascience.fr/rapido/) (2023-)
   * Member of the editorial board of the IJGIS journal (2022-)
-  * Elected member of the Industrial Engineering departement of INSA Lyon (2021-)
+  * Scientific manager of the [Modeling and Digital Humanities Work Package](https://aslan.universite-lyon.fr/modeling-and-digital-humanities/) of LabEx [ASLAN](https://aslan.universite-lyon.fr/) (2022-)
+  * Elected member of the Industrial Engineering departement council of INSA Lyon (2021-)
   * Member of the steering committee of the “Journée Sciences Navales (JSN) 2018”
   * Travel grant (Early carreer support): 10th RDA Plenary Meeting à Montréal, September 2017
   * WG Member of the keystone COST Action IC1302 
