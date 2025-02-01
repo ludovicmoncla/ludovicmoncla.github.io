@@ -13,7 +13,7 @@ Associate professor in computer science at [INSA Lyon](https://www.insa-lyon.fr/
 
 Co-leader of the [Humanités Numériques Spatialisées](https://hns-magis.github.io) working group of [CNRS GdR MAGIS](https://gdr-magis.cnrs.fr) with [C. Brando](http://crh.ehess.fr/index.php?5088).
 <br/>
-<br/>Member of LabEx [ASLAN](https://aslan.universite-lyon.fr/) and scientific manager of the [Modeling and Digital Humanities Work Package](https://aslan.universite-lyon.fr/modeling-and-digital-humanities/).
+<br/>Member of LabEx [ASLAN](https://aslan.universite-lyon.fr/) and scientific manager of the [Modeling and Digital Humanities](https://aslan.universite-lyon.fr/modeling-and-digital-humanities/) Work Package.
 <br/>Member of [Consortium-HN ARIANE](https://cst-ariane.huma-num.fr) (Analyses, Recherches, Intelligence Artificielle et Nouvelles Editions numériques)
 <br/>Member of [SciDoLySE](http://scidolyse.ens-lyon.fr/) (Science des Données à Lyon et Saint-Etienne) research group.
 <br/>Member of the [ObTIC](https://obtic.sorbonne-universite.fr/) team at Sorbonne University.
