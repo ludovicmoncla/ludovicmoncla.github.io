@@ -116,42 +116,43 @@ Professional activities
 
 2025
 :  
-   * 3rd International [Workshop on Geographic Information Extraction from Texts](https://geo-ext.github.io/GeoExT2025/) (GeoExT 2025) at the [ECIR 2025](https://ecir2025.eu/) conference
+   * Atelier MAGIS [Les humanités numériques spatialisées à l’ère des graphes de connaissances et des grands modèles de langage](https://sageo2025.sciencesconf.org/resource/page/id/3), Conférence [SAGEO 2025](https://sageo2025.sciencesconf.org). Avignon, France.
+   * 3rd International [Workshop on Geographic Information Extraction from Texts](https://geo-ext.github.io/GeoExT2025/) (GeoExT 2025) at the [ECIR 2025](https://ecir2025.eu/) conference, Lucca, Italy
 
 2024
 :  
-   * 2nd International [Workshop on Geographic Information Extraction from Texts](https://geo-ext.github.io/GeoExT2024/) (GeoExT 2024) at the [ECIR 2024](https://www.ecir2024.org) conference
+   * 2nd International [Workshop on Geographic Information Extraction from Texts](https://geo-ext.github.io/GeoExT2024/) (GeoExT 2024) at the [ECIR 2024](https://www.ecir2024.org) conference, Glasgow, UK
    * IJGIS Special Issue on [https://think.taylorandfrancis.com/special_issues/extracting-analysing-geographic-information-natural-language-texts/](Extracting and analysing geographic information from natural language texts)
 
 
 2023
 :  
-   * 7th ACM SIGSPATIAL [Workshop on Geospatial Humanities 2023](https://ludovicmoncla.github.io/sigspatial-geohumanities-2023/)
-   * Workshop [Humanités Numériques Spatialisées](https://aphns-magis.liris.cnrs.fr/AtelierMAGIS2023.html) at the [Journées MAGIS 2023](https://journeesmagis.sciencesconf.org).
+   * 7th ACM SIGSPATIAL [Workshop on Geospatial Humanities 2023](https://ludovicmoncla.github.io/sigspatial-geohumanities-2023/). Hamburg, Germany
+   * Workshop [Humanités Numériques Spatialisées](https://aphns-magis.liris.cnrs.fr/AtelierMAGIS2023.html) at the [Journées MAGIS 2023](https://journeesmagis.sciencesconf.org). Bordeaux, France
 
 
 2022
 :  
-   * 6th ACM SIGSPATIAL [Workshop on Geospatial Humanities 2022](https://ludovicmoncla.github.io/sigspatial-geohumanities-2022/)
-   * Workshop [TAL & Humanités Numériques](https://projet.liris.cnrs.fr/aphns-magis/AtelierTALN2022.html) at the [TALN/RECTIAL 2022](https://taln2022.univ-avignon.fr) conference
-   * 7th Workshop [GAST 2022](https://gt-gast.irisa.fr/gast-2022/) at the [EGC](https://egc2022.univ-tours.fr) conference
+   * 6th ACM SIGSPATIAL [Workshop on Geospatial Humanities 2022](https://ludovicmoncla.github.io/sigspatial-geohumanities-2022/). Seattle, USA
+   * Workshop [TAL & Humanités Numériques](https://projet.liris.cnrs.fr/aphns-magis/AtelierTALN2022.html) at the [TALN/RECTIAL 2022](https://taln2022.univ-avignon.fr) conference. Avignon, France
+   * 7th Workshop [GAST 2022](https://gt-gast.irisa.fr/gast-2022/) at the [EGC](https://egc2022.univ-tours.fr) conference. Tours, Frnace
 
 2021
 :  
-   * 5th ACM SIGSPATIAL [Workshop on Geospatial Humanities 2021](https://ludovicmoncla.github.io/sigspatial-geohumanities-2021/)
-   * Workshop [Données et discours géographiques en France au 18e siècle.](https://centerinparis.uchicago.edu/events/donnees-et-discours-geographiques-en-france-au-18e-siecle) UChicago Center in Paris
-   * Workshop Humanités Numériques Spatialisées [HNS 2021](https://projet.liris.cnrs.fr/aphns-magis/AtelierSAGEO2021.html) at the SAGEO conference
+   * 5th ACM SIGSPATIAL [Workshop on Geospatial Humanities 2021](https://ludovicmoncla.github.io/sigspatial-geohumanities-2021/). Beijing, China (online).
+   * Workshop Données et discours géographiques en France au 18e siècle. UChicago Center in Paris. (online).
+   * Workshop Humanités Numériques Spatialisées [HNS 2021](https://projet.liris.cnrs.fr/aphns-magis/AtelierSAGEO2021.html) at the SAGEO conference. La Rochelle (online).
 
 2020
 :  
-   * 4th ACM SIGSPATIAL [Workshop on Geospatial Humanities 2020](https://ludovicmoncla.github.io/sigspatial-geohumanities-2020/)
-   * 6th Workshop [GAST 2020](https://gt-gast.irisa.fr/gast-2020/) at the EGC conference
+   * 4th ACM SIGSPATIAL [Workshop on Geospatial Humanities 2020](https://ludovicmoncla.github.io/sigspatial-geohumanities-2020/). Seattle, USA (online).
+   * 6th Workshop [GAST 2020](https://gt-gast.irisa.fr/gast-2020/) at the EGC conference. Bruxelles, Belgium.
 
 2019
 :  
-  * 3rd ACM SIGSPATIAL [Workshop on Geospatial Humanities 2019](https://bgmartins.github.io/sigspatial-geohumanities/)
-  * 13th ACM SIGSPATIAL [Workshop on Geographic Information Retrieval 2019](https://www.geo.uzh.ch/~rsp/gir19/committee.html)
-  * 5th Workshop [GAST 2019](https://gt-gast.irisa.fr/gast-2019/) at the EGC conference
+  * 3rd ACM SIGSPATIAL [Workshop on Geospatial Humanities 2019](https://bgmartins.github.io/sigspatial-geohumanities/). Chicago, USA.
+  * 13th ACM SIGSPATIAL [Workshop on Geographic Information Retrieval 2019](https://www.geo.uzh.ch/~rsp/gir19/committee.html). Lyon, France.
+  * 5th Workshop [GAST 2019](https://gt-gast.irisa.fr/gast-2019/) at the EGC conference. Metz, France.
 
 
 ## Member of program committees and reviewer
