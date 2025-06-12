@@ -31,6 +31,11 @@ Oct. 2024 - ...
 * **[Antoine Taroni](https://cv.hal.science/antoine-taroni)**, Interpretability of large language models: towards a hybrid neuro-symbolic approach for geographical discourse analysis. Co-supervised with [Frédérique Laforest](https://perso.liris.cnrs.fr/flaforest/). INSA Lyon doctoral grant.
 
 
+Avr. 2024 - ...
+:   
+* **[Baptiste Brunet de la Charie](https://liris.cnrs.fr/page-membre/baptiste-brunet-charie)**, Design of a semantic search engine to improve medical risk management: an approach based on the exploitation of internal data and scientific literature. Co-supervised with [Elod Egyed-Zsigmond](https://perso.liris.cnrs.fr/eegyedzs/dw/doku.php). CIFRE.
+
+
 Dec. 2023 - ...
 :   
 * **[Yassir Lairgi](https://lairgiyassir.github.io)**, Detection of Weak Signals in Graph-oriented Data: An Approach using LLM and DGNN. Co-supervised with [Khalid Bendabdeslem](http://kbenabde.free.fr/) and [Remy Cazabet](https://cazabetremy.fr). CIFRE.
