@@ -44,7 +44,7 @@ Dec. 2023 - ...
 Fev. 2021 - Juin 2025
 :   
 * **[Alice Brenon](https://perso.liris.cnrs.fr/abrenon/)**, Methods and Tools for the Diachronic Study of Geographic Discourse in French Encylopedia. GEODE project. Co-supervised with [Frédérique Laforest](https://perso.liris.cnrs.fr/flaforest/) and [Denis Vigier](http://www.icar.cnrs.fr/membre/dvigier/). LabEx ASLAN.
-<br> 📝 [Manuscrit](https://theses.fr/s412985)
+<br> 📝 [Manuscrit](https://theses.fr/s417578)
 
 ## Postdoctoral Students
 
