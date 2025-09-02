@@ -41,11 +41,10 @@ I was previously (2016-2018) a postdoctoral researcher at the Naval Academy Rese
 
 See the full list of current and past research projects: [here](/research/).
 
-[KOGIA]() - CIFRE (2023-2026)
-:   Large Language Models, Knowledge Graphs and Dynamic Graph Neural Networks for competitive intelligence
-<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and P. Cleau ([Auvalie Innovation](https://auvalie.com))
-<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [Auvalie Innovation](https://auvalie.com)
-
+[OLR-LLM](https://www.ixxi.fr/projets/projets-finances-en-2025#section-4) (5k€) - IXXI / MSH LSE (2026-2027)
+:   Segmentation de corpus lexicographiques numérisés à l’aide de LLMs : étude du Dictionnaire Universel François-Latin et de La Grande Encyclopédie
+<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/))
+<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [ICAR](http://icar.cnrs.fr/)
 
 [ECoDA](https://fil.cnrs.fr/les-projets-2025-2026/) (10 k€) - Fédération Informatique de Lyon (2025-2026)
 :   This inter-laboratory project revolves around two research objectives: 1. Automatic identification of knowledge domains and analysis of their evolution. 2. Construction of a geo-historical knowledge graph (involving spatial and temporal dimensions).
@@ -53,17 +52,11 @@ These objectives will be applied to a corpus of texts composed of several editio
 <br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and J. Velcin ([ERIC](https://eric.msh-lse.fr))
 <br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [ERIC](https://eric.msh-lse.fr), [ICAR](http://icar.cnrs.fr/)
 
+[KOGIA]() - CIFRE (2023-2026)
+:   Large Language Models, Knowledge Graphs and Dynamic Graph Neural Networks for competitive intelligence
+<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and P. Cleau ([Auvalie Innovation](https://auvalie.com))
+<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [Auvalie Innovation](https://auvalie.com)
 
-[PrepaEmadit]() (30 k€) - Univ. Lumière Lyon 2 (2024-2025)
-:   PrepaEmadit aims to carry out preliminary research into the automatic processing of lexicographical data extracted from Trévoux's Dictionnaire Universel François-Latin. The funds allocated will be used to acquire the annotated version of the 3rd edition (1743), to digitise the 7th edition (1743) in collaboration with the BnF and to organise a two-day workshop in Lyon.
-<br/>**Project leaders**: D. Vigier ([ICAR](http://icar.cnrs.fr/))
-<br/>**Consortium**: [ICAR](http://icar.cnrs.fr/), [LIRIS](https://liris.cnrs.fr/), [ERIC](https://eric.msh-lse.fr)
-
-
-[Co-PrepaEmadit]() (9 k€) - LabEx ASLAN (2024-2025)
-:   Co-PrepaEmadit aims to carry out preliminary research studies on the automatic processing of lexicographical data extracted from Trévoux's Dictionnaire Universel François-Latin. This funding enables us to recruit three Master 2 students in computer science and digital humanities for 6-month internships.
-<br/>**Project leaders**: D. Vigier ([ICAR](http://icar.cnrs.fr/))
-<br/>**Consortium**: [ICAR](http://icar.cnrs.fr/), [LIRIS](https://liris.cnrs.fr/), [ERIC](https://eric.msh-lse.fr)
 
 
 
