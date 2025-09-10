@@ -65,6 +65,7 @@ Sep. 2023 - Aou. 2024
 2025
 :   
 * **Bin Yang**, Construction automatique d’un graphe de connaissances géo-historiques à partir d’entrées encyclopédiques. Master Sciences du langage, Université Grenoble Alpes. Co-encadrement avec Fabien Duchateau (LIRIS) et Frédérique Laforest (LIRIS). Financement FIL.
+<br> 📝 [Rapport](/files/2025_rapport-stage_YANG_Bin.pdf) - 🖥 [Slides soutenance](/files/2025_slides-soutenance-stage_YANG_Bin.pdf)
 
 2024
 :   
