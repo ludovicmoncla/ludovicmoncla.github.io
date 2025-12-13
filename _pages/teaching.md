@@ -24,9 +24,9 @@ author_profile: true
 
 ## Université Lumière Lyon 2: [Master Géomatique / Géographies numériques](https://mastergeonum.org/programme/)
 
-| Course name | Start date | Level | Type | Link      |
-|---    |:-:    |:-:    |:-:    |:-:    |
-| Gestion et traitement des données spatio-temporelles | 2020  | M2 | TP (practicals) | [Github](https://github.com/ludovicmoncla/master-geonum-tutorials)      |
+| Course name | Start date | End date | Level | Type | Link      |
+|---    |:-:    |:-:    |:-:    |:-:    |:-:    |
+| Gestion et traitement des données spatio-temporelles | 2020  | 2025 | M2 | TP (practicals) | [Github](https://github.com/ludovicmoncla/master-geonum-tutorials)      |
 
 
 
