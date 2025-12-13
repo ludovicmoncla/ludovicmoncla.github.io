@@ -121,6 +121,12 @@ Professional activities
 
 ## Member of organization committees
 
+
+2025
+:  
+   * 4th International [Workshop on Geographic Information Extraction from Texts](https://geo-ext.github.io/GeoExT2026/) (GeoExT 2026) at the [ECIR 2026](https://ecir2026.eu/) conference, Delft, The Netherlands
+
+
 2025
 :  
    * Atelier MAGIS [Les humanités numériques spatialisées à l’ère des graphes de connaissances et des grands modèles de langage](https://sageo2025.sciencesconf.org/resource/page/id/3), Conférence [SAGEO 2025](https://sageo2025.sciencesconf.org). Avignon, France.
@@ -163,6 +169,12 @@ Professional activities
 
 
 ## Member of program committees and reviewer
+
+2025
+:  
+  * 9th International Workshop on Narrative Extraction from Texts ([Text2Story’26](https://text2story26.inesctec.pt)) at [ECIR2026](https://ecir2026.eu/)
+  * Workshop [Graphes de connaissances et Ontologies : de l'Apprentissage à l'Exploitation](https://sites.google.com/view/goleegc2026/accueil) (GOLE)" at the [EGC 2026](https://conferences.sigappfr.org/egc2026/) conference
+  * Workshop [Gestion et Analyse des données Spatiales et Temporelles](https://gt-gast.irisa.fr/appel-a-communication-gast-2026/) (GAST)" at the [EGC 2026](https://conferences.sigappfr.org/egc2026/) conference
 
 
 2025
@@ -228,8 +240,8 @@ Professional activities
 
 ## Reviewer in international journals
 
-  * [Journal of Spatial Information Science](https://josis.org/index.php/josis) (JOSIS)
   * [International Journal of Geographical Information Sciences](https://www.tandfonline.com/toc/tgis20/current) (IJGIS)
+  * [Journal of Spatial Information Science](https://josis.org/index.php/josis) (JOSIS)
   * [Transactions on Spatial Algorithms and Systems](https://dl.acm.org/journal/tsas) (TSAS)
   * [Geo-spatial Information Science](https://www.tandfonline.com/journals/tgsi20) (TGSI)
   * [Journal of Applied Earth Observation and Geoinformation](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation) (JAG)
@@ -247,7 +259,7 @@ Professional activities
   * Member of the scientific committee of the RAPIDO project (Rendre Accessibles des Publications scientifiques Indexées et liées à des DOnnées certifiées) - [https://www.ouvrirlascience.fr/rapido/](https://www.ouvrirlascience.fr/rapido/) (2023-)
   * Member of the editorial board of the IJGIS journal (2022-)
   * Scientific manager of the [Modeling and Digital Humanities Work Package](https://aslan.universite-lyon.fr/modeling-and-digital-humanities/) of LabEx [ASLAN](https://aslan.universite-lyon.fr/) (2022-)
-  * Elected member of the Industrial Engineering departement council of INSA Lyon (2021-)
+  * Elected member of the Industrial Engineering departement council of INSA Lyon (2021-2025)
   * Member of the steering committee of the “Journée Sciences Navales (JSN) 2018”
   * Travel grant (Early carreer support): 10th RDA Plenary Meeting à Montréal, September 2017
   * WG Member of the keystone COST Action IC1302 
