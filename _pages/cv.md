@@ -64,10 +64,10 @@ Sep. 2023 - Aou. 2024
 
 2026
 :   
-* **Antoine Salazar**, Interprétation et raisonnement explicable sur les graphes de connaissance pour l’identification de signaux faibles. Mathématiques Appliquées Statistiques, Lyon 1. Co-encadrement avec Khalid Benabdeslem (LIRIS) et Rémy Cazabet (LIRIS). Financement Auvalie Innovation.
+* **Antoine Salazar**, Interprétation et raisonnement explicable sur les graphes de connaissance pour l’identification de signaux faibles. Master Mathématiques Appliquées Statistiques, Lyon 1. Co-encadrement avec Khalid Benabdeslem (LIRIS) et Rémy Cazabet (LIRIS).
 * **Nicolas Neila**, Identification automatique de domaines de connaissances et analyse de leur évolution. Licence Sciences du langage, Lyon 2. Co-encadrement avec Sabine Loudcher (ERIC). Financement FIL.
-* **Aya Raouti**, IA & Deep Learning : OCR et LLMs pour la segmentation de dictionnaires anciens. Ecole Centrale Lyon. Co-encadrement avec Véronique Eglin (LIRIS). Financement MSH-LSE / IXXI.
-* **Maritza Beatriz García Rodríguez**, Encodage en XML-TEI de gros volumes de données textuelles assistée par l’IA . Master Humanités Numériques, Université Lyon 2. Co-encadrement avec Deni Vigier (ICAR). Financement LabEx ASLAN.
+* **Aya Rahouti**, IA & Deep Learning : OCR et LLMs pour la segmentation de dictionnaires anciens. Ecole Centrale Lyon. Co-encadrement avec Véronique Eglin (LIRIS). Financement MSH-LSE / IXXI.
+* **Maritza Beatriz García Rodríguez**, Encodage en XML-TEI de gros volumes de données textuelles assistée par l’IA . Master Humanités Numériques, Université Lyon 2. Co-encadrement avec Denis Vigier (ICAR). Financement LabEx ASLAN.
 
 2025
 :   
