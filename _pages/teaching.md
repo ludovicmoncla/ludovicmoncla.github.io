@@ -21,15 +21,6 @@ author_profile: true
 | Industrie du futur - Projet | 2018 | 5th year | TP (practicals) | [Moodle](https://moodle.insa-lyon.fr/enrol/index.php?id=4545)      |
 
 
-
-## Université Lumière Lyon 2: [Master Géomatique / Géographies numériques](https://mastergeonum.org/programme/)
-
-| Course name | Start date | End date | Level | Type | Link      |
-|---    |:-:    |:-:    |:-:    |:-:    |:-:    |
-| Gestion et traitement des données spatio-temporelles | 2020  | 2025 | M2 | TP (practicals) | [Github](https://github.com/ludovicmoncla/master-geonum-tutorials)      |
-
-
-
 # Past teaching
 
 ## INSA Lyon: [Industrial Engineering departement](https://gi.insa-lyon.fr)
@@ -39,6 +30,13 @@ author_profile: true
 | Algorithmique et Programmation | 2018  | 2022 | 4th year | TP (practicals) | 
 | Modélisation et conception orientée objets | 2018   | 2022 | 5th year | TP (practicals) | 
 | Bases de données et XML | 2018  | 2022 | 3rd year | TP (practicals) | 
+
+
+## Université Lumière Lyon 2: [Master Géomatique / Géographies numériques](https://mastergeonum.org/programme/)
+
+| Course name | Start date | End date | Level | Type | Link      |
+|---    |:-:    |:-:    |:-:    |:-:    |:-:    |
+| Gestion et traitement des données spatio-temporelles | 2020  | 2025 | M2 | TP (practicals) | [Github](https://github.com/ludovicmoncla/master-geonum-tutorials)      |
 
 
 ## [Ecole navale](https://www.ecole-navale.fr): Département formation scientifique (informatique)
