@@ -129,7 +129,7 @@ Professional activities
 ## Member of organization committees
 
 
-2025
+2026
 :  
    * 4th International [Workshop on Geographic Information Extraction from Texts](https://geo-ext.github.io/GeoExT2026/) (GeoExT 2026) at the [ECIR 2026](https://ecir2026.eu/) conference, Delft, The Netherlands
 
@@ -177,7 +177,7 @@ Professional activities
 
 ## Member of program committees and reviewer
 
-2025
+2026
 :  
   * 9th International Workshop on Narrative Extraction from Texts ([Text2Story’26](https://text2story26.inesctec.pt)) at [ECIR2026](https://ecir2026.eu/)
   * Workshop [Graphes de connaissances et Ontologies : de l'Apprentissage à l'Exploitation](https://sites.google.com/view/goleegc2026/accueil) (GOLE)" at the [EGC 2026](https://conferences.sigappfr.org/egc2026/) conference
