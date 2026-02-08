@@ -68,6 +68,7 @@ Sep. 2023 - Aou. 2024
 * **Nicolas Neila**, Identification automatique de domaines de connaissances et analyse de leur évolution. Licence Sciences du langage, Lyon 2. Co-encadrement avec Sabine Loudcher (ERIC). Financement FIL.
 * **Aya Rahouti**, IA & Deep Learning : OCR et LLMs pour la segmentation de dictionnaires anciens. Ecole Centrale Lyon. Co-encadrement avec Véronique Eglin (LIRIS). Financement MSH-LSE / IXXI.
 * **Maritza Beatriz García Rodríguez**, Encodage en XML-TEI de gros volumes de données textuelles assistée par l’IA . Master Humanités Numériques, Université Lyon 2. Co-encadrement avec Denis Vigier (ICAR). Financement LabEx ASLAN.
+* **Enzo Varas**, Trends of Energy Transition in Social Media. Industrial Engineering INSA Lyon. Co-supervised with Carlos Olivos (Universidad Católica del Norte, Chile).
 
 2025
 :   
