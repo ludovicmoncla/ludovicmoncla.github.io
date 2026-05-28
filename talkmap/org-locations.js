@@ -1,25 +1,5 @@
 var addressPoints = [
   [
-    "Paris, France",
-    48.8534951,
-    2.3483915
-  ],
-  [
-    "Dallas, TX, USA",
-    32.7762719,
-    -96.7968559
-  ],
-  [
-    "Leuven, Belgium",
-    50.879202,
-    4.7011675
-  ],
-  [
-    "Lyon, France",
-    45.7578137,
-    4.8320114
-  ],
-  [
     "Montpellier, France",
     43.6112422,
     3.8767337
@@ -35,14 +15,24 @@ var addressPoints = [
     7.0518158
   ],
   [
+    "Aubervilliers, France",
+    48.9146078,
+    2.3821895
+  ],
+  [
     "London, UK",
-    51.4893335,
-    -0.14405508452768728
+    51.5074456,
+    -0.1277653
   ],
   [
     "Vienna, Austria",
     48.2083537,
     16.3725042
+  ],
+  [
+    "Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
   ],
   [
     "Montr\u00e9al, Canada",
@@ -51,23 +41,18 @@ var addressPoints = [
   ],
   [
     "Hamburg, Germany",
-    53.550341,
-    10.000654
+    53.5501721,
+    10.0013165
   ],
   [
     "Bruxelles, Belgique",
-    50.8550018,
-    4.3512333761166175
+    50.8467372,
+    4.352493
   ],
   [
     "Dublin, Ireland",
     53.3493795,
     -6.2605593
-  ],
-  [
-    "Chicago, IL, USA",
-    41.8755616,
-    -87.6244212
   ],
   [
     "Nice, France",
@@ -76,8 +61,13 @@ var addressPoints = [
   ],
   [
     "Reno, NV, USA",
-    39.5261206,
-    -119.8126581
+    39.5261788,
+    -119.812658
+  ],
+  [
+    "Delft, Netherlands",
+    51.9994572,
+    4.3627245
   ],
   [
     "Blois, France",
