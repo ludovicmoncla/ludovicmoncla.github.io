@@ -65,6 +65,7 @@ Sep. 2023 - Aou. 2024
 2026
 :   
 * **Antoine Salazar**, Interprétation et raisonnement explicable sur les graphes de connaissance pour l’identification de signaux faibles. Master Mathématiques Appliquées Statistiques, Lyon 1. Co-encadrement avec Khalid Benabdeslem (LIRIS) et Rémy Cazabet (LIRIS).
+<br> 📝 [Rapport](/files/2026_rapport-stage_SALAZAR_Antoine.pdf)
 * **Nicolas Neila**, Identification automatique de domaines de connaissances et analyse de leur évolution. Licence Sciences du langage, Lyon 2. Co-encadrement avec Sabine Loudcher (ERIC). Financement FIL.
 * **Aya Rahouti**, IA & Deep Learning : OCR et LLMs pour la segmentation de dictionnaires anciens. Ecole Centrale Lyon. Co-encadrement avec Véronique Eglin (LIRIS). Financement MSH-LSE / IXXI.
 <br> 📝 [Rapport](/files/2026_rapport-stage_RAHOUTI_Aya.pdf)
