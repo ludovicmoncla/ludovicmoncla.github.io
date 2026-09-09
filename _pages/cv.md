@@ -67,6 +67,7 @@ Sep. 2023 - Aou. 2024
 * **Antoine Salazar**, Interprétation et raisonnement explicable sur les graphes de connaissance pour l’identification de signaux faibles. Master Mathématiques Appliquées Statistiques, Lyon 1. Co-encadrement avec Khalid Benabdeslem (LIRIS) et Rémy Cazabet (LIRIS).
 * **Nicolas Neila**, Identification automatique de domaines de connaissances et analyse de leur évolution. Licence Sciences du langage, Lyon 2. Co-encadrement avec Sabine Loudcher (ERIC). Financement FIL.
 * **Aya Rahouti**, IA & Deep Learning : OCR et LLMs pour la segmentation de dictionnaires anciens. Ecole Centrale Lyon. Co-encadrement avec Véronique Eglin (LIRIS). Financement MSH-LSE / IXXI.
+<br> 📝 [Rapport](/files/2026_rapport-stage_RAHOUTI_Aya.pdf)
 * **Maritza Beatriz García Rodríguez**, Encodage en XML-TEI de gros volumes de données textuelles assistée par l’IA . Master Humanités Numériques, Université Lyon 2. Co-encadrement avec Denis Vigier (ICAR). Financement LabEx ASLAN.
 <br> 📝 [Rapport](/files/2026_rapport-stage_GARCIA_Maritza.pdf)
 * **Enzo Varas**, Trends of Energy Transition in Social Media. Industrial Engineering INSA Lyon. Co-supervised with Carlos Olivos (Universidad Católica del Norte, Chile).
@@ -181,6 +182,7 @@ Professional activities
 
 2026
 :  
+  * ACL Rolling Review - August 2026
   * 9th International Workshop on Narrative Extraction from Texts ([Text2Story’26](https://text2story26.inesctec.pt)) at [ECIR2026](https://ecir2026.eu/)
   * Workshop [Graphes de connaissances et Ontologies : de l'Apprentissage à l'Exploitation](https://sites.google.com/view/goleegc2026/accueil) (GOLE)" at the [EGC 2026](https://conferences.sigappfr.org/egc2026/) conference
   * Workshop [Gestion et Analyse des données Spatiales et Temporelles](https://gt-gast.irisa.fr/appel-a-communication-gast-2026/) (GAST)" at the [EGC 2026](https://conferences.sigappfr.org/egc2026/) conference
@@ -250,6 +252,7 @@ Professional activities
 ## Reviewer in international journals
 
   * [International Journal of Geographical Information Sciences](https://www.tandfonline.com/toc/tgis20/current) (IJGIS)
+  * [International Journal of Cartography](https://www.tandfonline.com/journals/tica20)
   * [Journal of Spatial Information Science](https://josis.org/index.php/josis) (JOSIS)
   * [Transactions on Spatial Algorithms and Systems](https://dl.acm.org/journal/tsas) (TSAS)
   * [Geo-spatial Information Science](https://www.tandfonline.com/journals/tgsi20) (TGSI)
