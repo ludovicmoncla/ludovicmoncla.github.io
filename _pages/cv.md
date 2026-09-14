@@ -68,7 +68,7 @@ Sep. 2023 - Aou. 2024
 <br> 📝 [Rapport](/files/2026_rapport-stage_SALAZAR_Antoine.pdf)
 * **Nicolas Neila**, Identification automatique de domaines de connaissances et analyse de leur évolution. Licence Sciences du langage, Lyon 2. Co-encadrement avec Sabine Loudcher (ERIC). Financement FIL.
 * **Aya Rahouti**, IA & Deep Learning : OCR et LLMs pour la segmentation de dictionnaires anciens. Ecole Centrale Lyon. Co-encadrement avec Véronique Eglin (LIRIS). Financement MSH-LSE / IXXI.
-<br> 📝 [Rapport](/files/2026_rapport-stage_RAHOUTI_Aya.pdf)
+<br> 📝 [Rapport](/files/2026_rapport-stage_RAHOUTI_Aya.pdf) - 🖥 [Slides soutenance](/files/2026_slides-soutenance-stage_RAHOUTI_Aya.pdf)
 * **Maritza Beatriz García Rodríguez**, Encodage en XML-TEI de gros volumes de données textuelles assistée par l’IA . Master Humanités Numériques, Université Lyon 2. Co-encadrement avec Denis Vigier (ICAR). Financement LabEx ASLAN.
 <br> 📝 [Rapport](/files/2026_rapport-stage_GARCIA_Maritza.pdf)
 * **Enzo Varas**, Trends of Energy Transition in Social Media. Industrial Engineering INSA Lyon. Co-supervised with Carlos Olivos (Universidad Católica del Norte, Chile).
