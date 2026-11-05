@@ -125,6 +125,8 @@ Professional activities
 
 ## PhD jury member
 
+* Member (Examiner) of the PhD defense of Rémy Decoupes **Apport de l'information géographique pour le suivi des trajectoires de crises fondée sur les modèles de langues**. Université de Montpellier. 14 December 2026
+
 * Member (Examiner) of the PhD defense of Alicia Blanchi [Les Représentations Socio-Spatiales des espaces métropolitains à travers les annonces immobilières géolocalisées](https://theses.fr/s312999). Université Côte d'Azur. 4 March 2025
 
 * Member (Examiner) of the PhD defense of Lucie Cadorel [Localisation sur le territoire et prise en compte de l’incertitude lors de l’extraction des caractéristiques de biens immobiliers à partir d’annonces](https://www.theses.fr/s259073). Université Côte d'Azur. 24 January 2024
@@ -133,10 +135,13 @@ Professional activities
 ## Member of organization committees
 
 
+2027
+:  
+   * 5th International [Workshop on Geographic Information Extraction from Texts](https://geo-ext.github.io/GeoExT2025/) (GeoExT 2027) at the [ECIR 2027](https://www.ecir2027.co.uk) conference, Southampton, UK
+
 2026
 :  
    * 4th International [Workshop on Geographic Information Extraction from Texts](https://geo-ext.github.io/GeoExT2026/) (GeoExT 2026) at the [ECIR 2026](https://ecir2026.eu/) conference, Delft, The Netherlands
-
 
 2025
 :  
@@ -148,12 +153,10 @@ Professional activities
    * 2nd International [Workshop on Geographic Information Extraction from Texts](https://geo-ext.github.io/GeoExT2024/) (GeoExT 2024) at the [ECIR 2024](https://www.ecir2024.org) conference, Glasgow, UK
    * IJGIS Special Issue on [https://think.taylorandfrancis.com/special_issues/extracting-analysing-geographic-information-natural-language-texts/](Extracting and analysing geographic information from natural language texts)
 
-
 2023
 :  
    * 7th ACM SIGSPATIAL [Workshop on Geospatial Humanities 2023](https://ludovicmoncla.github.io/sigspatial-geohumanities-2023/). Hamburg, Germany
    * Workshop [Humanités Numériques Spatialisées](https://aphns-magis.liris.cnrs.fr/AtelierMAGIS2023.html) at the [Journées MAGIS 2023](https://journeesmagis.sciencesconf.org). Bordeaux, France
-
 
 2022
 :  
@@ -181,12 +184,17 @@ Professional activities
 
 ## Member of program committees and reviewer
 
+2027
+:  
+  * 10th International Workshop on Narrative Extraction from Texts ([Text2Story’27](https://text2story27.inesctec.pt)) at [ECIR2027](https://www.ecir2027.co.uk)
+ 
+
 2026
 :  
-  * ACL Rolling Review - August 2026
+  * ACL Rolling Review - August 2026 & ACL Rolling Review - October 2026
   * 9th International Workshop on Narrative Extraction from Texts ([Text2Story’26](https://text2story26.inesctec.pt)) at [ECIR2026](https://ecir2026.eu/)
   * Workshop [Graphes de connaissances et Ontologies : de l'Apprentissage à l'Exploitation](https://sites.google.com/view/goleegc2026/accueil) (GOLE)" at the [EGC 2026](https://conferences.sigappfr.org/egc2026/) conference
-  * Workshop [Gestion et Analyse des données Spatiales et Temporelles](https://gt-gast.irisa.fr/appel-a-communication-gast-2026/) (GAST)" at the [EGC 2026](https://conferences.sigappfr.org/egc2026/) conference
+  * Workshop [Gestion et Analyse des données Spatiales et Temporelles](https://gt-gast.irisa.fr/appel-a-communication-gast-2026/) (GAST)" at the [EGC 2026](https://conferences.sigappfr.org/egc2026/) conference
 
 
 2025
@@ -271,7 +279,7 @@ Professional activities
   * Educational representative of the Industrial Engineering Department for INSA Lyon’s ATENA unit, contributing to the coordination and development of teaching practices and educational initiatives. (2025-)
   * Coordinator of the competency-based assessment initiative within the Industrial Engineering Department, contributing to the development and implementation of competency-based evaluation practices. (2025-)
   * JupyterLab Server Administrator for Computer Science Teaching (2024-)
-  * Member of the scientific committee of Consortium-HN ARIANE (Analyses, Recherches, Intelligence Artificielle et Nouvelles Editions numériques) - [https://cst-ariane.huma-num.fr](https://cst-ariane.huma-num.fr) (2024-)
+  * Member of the scientific committee of Consortium-HN ARIANE (Analyses, Recherches, Intelligence Artificielle et Nouvelles Editions numériques) - [https://cst-ariane.huma-num.fr](https://cst-ariane.huma-num.fr) (2024-2026)
   * Evaluator for the ANR evaluation committee CE38 - Interfaces : mathématiques, sciences du numérique – sciences humaines et sociales (2024)
   * Member of the scientific committee of the RAPIDO project (Rendre Accessibles des Publications scientifiques Indexées et liées à des DOnnées certifiées) - [https://www.ouvrirlascience.fr/rapido/](https://www.ouvrirlascience.fr/rapido/) (2023-)
   * Member of the editorial board of the IJGIS journal (2022-)
