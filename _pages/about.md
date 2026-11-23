@@ -41,6 +41,16 @@ I was previously (2016-2018) a postdoctoral researcher at the Naval Academy Rese
 
 See the full list of current and past research projects: [here](/research/).
 
+[KELHD]() (7k€) - LIRIS Action transversale (2027)
+:   Knowledge graph construction and Entity Linking for Historical Dictionaries
+<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/))
+<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/) (teams: DM2L, BD and TWEAK), [Universidade Federal Rural de Pernambuco](https://www.ufrpe.br)
+
+[VulgatIA](https://fil.cnrs.fr/les-projets-2027-2028/) (10 k€) - Fédération Informatique de Lyon (2025-2026)
+:   Agentic pipeline for the automated identification and annotation of biblical quotations in medieval Latin texts
+<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and M. Burghart ([CIHAM](https://ciham.ens-lyon.fr))
+<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [CIHAM](https://ciham.ens-lyon.fr)
+
 [DynET]() (7k€) - MSH-LSE (2026-2027)
 :   Dynamique Évolutive du Trévoux
 <br/>**Project leaders**: D. Vigier ([ICAR](http://icar.cnrs.fr/))
@@ -50,17 +60,6 @@ See the full list of current and past research projects: [here](/research/).
 :   Segmentation de corpus lexicographiques numérisés à l’aide de LLMs : étude du Dictionnaire Universel François-Latin et de La Grande Encyclopédie
 <br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/))
 <br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [ICAR](http://icar.cnrs.fr/)
-
-[TE2IA]() (4k€) - LabEx ASLAN (2026)
-:   Encodage en XML-TEI de gros volumes de données textuelles assistée par l’IA
-<br/>**Project leaders**: D. Vigier ([ICAR](http://icar.cnrs.fr/)) & L. Moncla ([LIRIS](https://liris.cnrs.fr/))
-<br/>**Consortium**: [ICAR](http://icar.cnrs.fr/), [LIRIS](https://liris.cnrs.fr/)
-
-[ECoDA](https://fil.cnrs.fr/les-projets-2025-2026/) (10 k€) - Fédération Informatique de Lyon (2025-2026)
-:   This inter-laboratory project revolves around two research objectives: 1. Automatic identification of knowledge domains and analysis of their evolution. 2. Construction of a geo-historical knowledge graph (involving spatial and temporal dimensions).
-These objectives will be applied to a corpus of texts composed of several editions of the Dictionnaire Universel François-Latin de Trévoux (DUFLT) published between 1704 and 1771.
-<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and J. Velcin ([ERIC](https://eric.msh-lse.fr))
-<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [ERIC](https://eric.msh-lse.fr), [ICAR](http://icar.cnrs.fr/)
 
 [KOGIA]() - CIFRE (2023-2026)
 :   Large Language Models, Knowledge Graphs and Dynamic Graph Neural Networks for competitive intelligence
