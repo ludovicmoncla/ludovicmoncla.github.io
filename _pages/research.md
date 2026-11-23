@@ -9,6 +9,15 @@ author_profile: true
 ## Current Research Projects
 
 
+[KELHD]() (7k€) - LIRIS Action transversale (2027)
+:   Knowledge graph construction and Entity Linking for Historical Dictionaries
+<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/))
+<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/) (teams: DM2L, BD and TWEAK), [Universidade Federal Rural de Pernambuco](https://www.ufrpe.br)
+
+[VulgatIA](https://fil.cnrs.fr/les-projets-2027-2028/) (10 k€) - Fédération Informatique de Lyon (2025-2026)
+:   Agentic pipeline for the automated identification and annotation of biblical quotations in medieval Latin texts
+<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and M. Burghart ([CIHAM](https://ciham.ens-lyon.fr))
+<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [CIHAM](https://ciham.ens-lyon.fr)
 
 [DynET]() (7k€) - MSH-LSE (2026-2027)
 :   Dynamique Évolutive du Trévoux
@@ -20,6 +29,16 @@ author_profile: true
 <br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/))
 <br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [ICAR](http://icar.cnrs.fr/)
 
+[KOGIA]() - CIFRE (2023-2026)
+:   Large Language Models, Knowledge Graphs and Dynamic Graph Neural Networks for competitive intelligence
+<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and P. Cleau ([Auvalie Innovation](https://auvalie.com))
+<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [Auvalie Innovation](https://auvalie.com)
+
+
+
+
+## Past Research Projects
+
 [TE2IA]() (4k€) - LabEx ASLAN (2026)
 :   Encodage en XML-TEI de gros volumes de données textuelles assistée par l’IA
 <br/>**Project leaders**: D. Vigier ([ICAR](http://icar.cnrs.fr/)) & L. Moncla ([LIRIS](https://liris.cnrs.fr/))
@@ -30,21 +49,6 @@ author_profile: true
 These objectives will be applied to a corpus of texts composed of several editions of the Dictionnaire Universel François-Latin de Trévoux (DUFLT) published between 1704 and 1771.
 <br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and J. Velcin ([ERIC](https://eric.msh-lse.fr))
 <br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [ERIC](https://eric.msh-lse.fr), [ICAR](http://icar.cnrs.fr/)
-
-[KOGIA]() - CIFRE (2023-2026)
-:   Large Language Models, Knowledge Graphs and Dynamic Graph Neural Networks for competitive intelligence
-<br/>**Project leaders**: L. Moncla ([LIRIS](https://liris.cnrs.fr/)) and P. Cleau ([Auvalie Innovation](https://auvalie.com))
-<br/>**Consortium**: [LIRIS](https://liris.cnrs.fr/), [Auvalie Innovation](https://auvalie.com)
-
-
-
-
-
-
-
-
-
-## Past Research Projects
 
 [PrepaEmadit]() (30 k€) - Univ. Lumière Lyon 2 (2024-2025)
 :   PrepaEmadit aims to carry out preliminary research into the automatic processing of lexicographical data extracted from Trévoux's Dictionnaire Universel François-Latin. The funds allocated will be used to acquire the annotated version of the 3rd edition (1743), to digitise the 7th edition (1743) in collaboration with the BnF and to organise a two-day workshop in Lyon.
